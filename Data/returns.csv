@@ -1,0 +1,212 @@
+﻿return_id,order_id,return_date,return_reason,resolution
+R00001,O000003,2024-10-15,Damaged item,Replacement
+R00002,O000034,2025-06-28,Wrong item,Replacement
+R00003,O000035,2025-12-24,Damaged item,Replacement
+R00004,O000143,2024-12-10,Wrong item,Replacement
+R00005,O000181,2023-02-27,Wrong item,Refund
+R00006,O000244,2025-09-14,Not as described,Refund
+R00007,O000256,2023-09-30,Changed mind,Replacement
+R00008,O000274,2024-12-08,Wrong item,Refund
+R00009,O000362,2024-11-04,Damaged item,Refund
+R00010,O000489,2025-01-29,Wrong item,Replacement
+R00011,O000490,2025-04-23,Not as described,Replacement
+R00012,O000550,2024-08-06,Damaged item,Refund
+R00013,O000551,2023-09-21,Changed mind,Replacement
+R00014,O000595,2025-12-07,Wrong item,Refund
+R00015,O000620,2025-04-21,Damaged item,Replacement
+R00016,O000627,2023-03-23,Wrong item,Replacement
+R00017,O000648,2024-09-06,Damaged item,Replacement
+R00018,O000766,2024-12-13,Not as described,Refund
+R00019,O000773,2024-02-08,Changed mind,Refund
+R00020,O000781,2025-11-07,Changed mind,Refund
+R00021,O000854,2025-08-12,Wrong item,Refund
+R00022,O000867,2024-08-12,Damaged item,Replacement
+R00023,O000950,2025-01-06,Wrong item,Replacement
+R00024,O000996,2025-10-02,Changed mind,Replacement
+R00025,O001029,2025-03-02,Wrong item,Replacement
+R00026,O001101,2023-03-08,Changed mind,Replacement
+R00027,O001158,2025-03-26,Not as described,Replacement
+R00028,O001173,2024-02-13,Not as described,Refund
+R00029,O001284,2024-12-25,Not as described,Refund
+R00030,O001285,2025-04-22,Damaged item,Replacement
+R00031,O001336,2023-05-20,Damaged item,Refund
+R00032,O001352,2023-02-21,Wrong item,Refund
+R00033,O001391,2024-11-15,Changed mind,Refund
+R00034,O001473,2024-02-06,Damaged item,Refund
+R00035,O001504,2025-08-24,Wrong item,Replacement
+R00036,O001562,2024-01-07,Wrong item,Replacement
+R00037,O001572,2025-12-02,Not as described,Replacement
+R00038,O001575,2025-04-07,Wrong item,Replacement
+R00039,O001631,2023-12-06,Wrong item,Refund
+R00040,O001680,2025-10-01,Not as described,Replacement
+R00041,O001703,2025-07-06,Damaged item,Refund
+R00042,O001735,2023-11-29,Wrong item,Refund
+R00043,O001757,2024-03-09,Wrong item,Refund
+R00044,O001758,2025-11-04,Changed mind,Replacement
+R00045,O001768,2024-04-05,Changed mind,Refund
+R00046,O001795,2024-05-25,Damaged item,Replacement
+R00047,O001838,2024-10-16,Wrong item,Refund
+R00048,O001864,2024-11-14,Damaged item,Refund
+R00049,O001884,2025-05-11,Wrong item,Refund
+R00050,O001916,2024-08-04,Changed mind,Replacement
+R00051,O002027,2025-01-04,Damaged item,Refund
+R00052,O002053,2025-03-03,Changed mind,Replacement
+R00053,O002089,2023-07-08,Changed mind,Replacement
+R00054,O002170,2024-10-17,Wrong item,Replacement
+R00055,O002186,2025-02-19,Not as described,Replacement
+R00056,O002216,2024-04-18,Wrong item,Refund
+R00057,O002303,2023-08-29,Wrong item,Refund
+R00058,O002304,2025-02-20,Changed mind,Replacement
+R00059,O002383,2024-05-23,Not as described,Replacement
+R00060,O002432,2024-08-25,Damaged item,Refund
+R00061,O002458,2026-01-02,Wrong item,Replacement
+R00062,O002476,2025-09-11,Damaged item,Refund
+R00063,O002568,2025-08-10,Not as described,Refund
+R00064,O002631,2023-12-20,Wrong item,Replacement
+R00065,O002704,2025-12-24,Not as described,Refund
+R00066,O002893,2024-08-13,Not as described,Refund
+R00067,O002903,2025-07-02,Damaged item,Refund
+R00068,O002933,2024-05-11,Wrong item,Replacement
+R00069,O002937,2024-04-06,Not as described,Refund
+R00070,O003002,2025-11-18,Changed mind,Replacement
+R00071,O003102,2025-03-03,Changed mind,Replacement
+R00072,O003110,2024-09-05,Damaged item,Replacement
+R00073,O003121,2024-10-17,Damaged item,Refund
+R00074,O003168,2024-08-23,Damaged item,Replacement
+R00075,O003179,2024-03-23,Changed mind,Replacement
+R00076,O003203,2025-11-24,Damaged item,Replacement
+R00077,O003310,2024-12-18,Damaged item,Refund
+R00078,O003323,2024-05-18,Changed mind,Replacement
+R00079,O003344,2024-03-29,Wrong item,Replacement
+R00080,O003364,2023-06-19,Not as described,Refund
+R00081,O003372,2024-12-31,Not as described,Refund
+R00082,O003456,2025-02-03,Wrong item,Refund
+R00083,O003469,2024-02-23,Damaged item,Refund
+R00084,O003473,2024-06-05,Not as described,Refund
+R00085,O003548,2025-12-14,Not as described,Replacement
+R00086,O003582,2024-08-24,Changed mind,Replacement
+R00087,O003635,2024-06-22,Changed mind,Replacement
+R00088,O003644,2025-03-12,Damaged item,Refund
+R00089,O003647,2025-04-26,Changed mind,Refund
+R00090,O003691,2023-11-01,Changed mind,Replacement
+R00091,O003698,2025-10-05,Changed mind,Replacement
+R00092,O003713,2024-08-12,Not as described,Refund
+R00093,O003735,2025-03-09,Wrong item,Refund
+R00094,O003738,2026-01-08,Changed mind,Refund
+R00095,O003742,2025-05-14,Not as described,Replacement
+R00096,O003801,2023-11-22,Damaged item,Refund
+R00097,O003826,2025-03-17,Not as described,Replacement
+R00098,O003842,2024-09-25,Not as described,Refund
+R00099,O003853,2024-08-10,Not as described,Replacement
+R00100,O003859,2024-05-07,Changed mind,Replacement
+R00101,O003869,2024-02-29,Changed mind,Replacement
+R00102,O003924,2023-12-02,Damaged item,Refund
+R00103,O003960,2025-08-24,Changed mind,Replacement
+R00104,O004019,2025-04-10,Not as described,Refund
+R00105,O004021,2024-04-04,Damaged item,Refund
+R00106,O004050,2025-08-18,Not as described,Replacement
+R00107,O004112,2023-04-21,Changed mind,Replacement
+R00108,O004123,2025-08-12,Wrong item,Refund
+R00109,O004247,2024-06-28,Wrong item,Replacement
+R00110,O004349,2024-07-26,Wrong item,Replacement
+R00111,O004371,2025-05-25,Damaged item,Refund
+R00112,O004442,2024-05-08,Not as described,Refund
+R00113,O004462,2024-04-17,Wrong item,Replacement
+R00114,O004467,2024-10-19,Damaged item,Replacement
+R00115,O004471,2024-01-04,Changed mind,Refund
+R00116,O004557,2023-09-15,Not as described,Refund
+R00117,O004621,2024-08-13,Changed mind,Refund
+R00118,O004655,2025-05-26,Changed mind,Refund
+R00119,O004656,2024-12-29,Changed mind,Refund
+R00120,O004827,2024-07-04,Damaged item,Refund
+R00121,O004829,2023-04-26,Damaged item,Refund
+R00122,O004831,2023-12-05,Wrong item,Refund
+R00123,O004875,2023-05-10,Damaged item,Refund
+R00124,O004893,2024-04-12,Damaged item,Replacement
+R00125,O004972,2024-08-07,Changed mind,Replacement
+R00126,O005068,2023-08-01,Changed mind,Refund
+R00127,O005137,2025-12-23,Changed mind,Refund
+R00128,O005180,2024-08-06,Damaged item,Refund
+R00129,O005183,2025-06-27,Changed mind,Refund
+R00130,O005200,2025-08-19,Not as described,Replacement
+R00131,O005270,2023-10-05,Wrong item,Replacement
+R00132,O005273,2024-12-27,Not as described,Replacement
+R00133,O005367,2024-12-02,Changed mind,Refund
+R00134,O005447,2024-03-17,Changed mind,Refund
+R00135,O005522,2025-07-19,Damaged item,Replacement
+R00136,O005524,2023-11-16,Changed mind,Replacement
+R00137,O005586,2024-09-14,Changed mind,Replacement
+R00138,O005601,2025-03-28,Wrong item,Replacement
+R00139,O005603,2025-10-03,Changed mind,Replacement
+R00140,O005606,2023-07-06,Damaged item,Replacement
+R00141,O005667,2024-08-21,Not as described,Replacement
+R00142,O005700,2025-10-25,Changed mind,Refund
+R00143,O005802,2024-11-22,Wrong item,Refund
+R00144,O005847,2023-11-30,Changed mind,Replacement
+R00145,O005883,2025-08-10,Damaged item,Replacement
+R00146,O005927,2023-03-29,Not as described,Replacement
+R00147,O005995,2023-03-13,Changed mind,Refund
+R00148,O006047,2023-01-19,Damaged item,Replacement
+R00149,O006110,2023-02-11,Changed mind,Refund
+R00150,O006160,2025-04-10,Damaged item,Refund
+R00151,O006375,2024-04-24,Not as described,Refund
+R00152,O006397,2025-10-21,Damaged item,Refund
+R00153,O006471,2025-03-17,Wrong item,Replacement
+R00154,O006513,2024-07-09,Changed mind,Refund
+R00155,O006541,2025-09-10,Not as described,Replacement
+R00156,O006548,2025-09-17,Changed mind,Refund
+R00157,O006566,2024-03-30,Damaged item,Replacement
+R00158,O006584,2025-02-22,Damaged item,Replacement
+R00159,O006668,2024-12-30,Damaged item,Refund
+R00160,O006714,2023-02-11,Not as described,Replacement
+R00161,O006790,2025-04-27,Damaged item,Replacement
+R00162,O006814,2023-06-03,Changed mind,Refund
+R00163,O006820,2023-06-04,Damaged item,Refund
+R00164,O006859,2023-05-14,Damaged item,Refund
+R00165,O006861,2023-07-02,Damaged item,Replacement
+R00166,O006938,2025-08-13,Wrong item,Replacement
+R00167,O006980,2025-08-14,Not as described,Replacement
+R00168,O007079,2023-09-17,Changed mind,Refund
+R00169,O007081,2025-12-19,Not as described,Replacement
+R00170,O007086,2025-04-01,Not as described,Refund
+R00171,O007098,2025-04-01,Changed mind,Refund
+R00172,O007126,2025-05-23,Damaged item,Replacement
+R00173,O007141,2025-04-02,Damaged item,Refund
+R00174,O007182,2023-11-20,Damaged item,Replacement
+R00175,O007194,2024-08-01,Changed mind,Replacement
+R00176,O007210,2023-03-29,Damaged item,Refund
+R00177,O007218,2023-03-02,Wrong item,Refund
+R00178,O007250,2024-07-16,Wrong item,Refund
+R00179,O007319,2025-01-22,Not as described,Replacement
+R00180,O007366,2024-10-24,Wrong item,Replacement
+R00181,O007409,2023-05-28,Wrong item,Replacement
+R00182,O007428,2023-07-15,Damaged item,Refund
+R00183,O007436,2024-06-17,Damaged item,Refund
+R00184,O007474,2025-09-24,Wrong item,Replacement
+R00185,O007487,2024-01-27,Not as described,Refund
+R00186,O007647,2024-10-01,Not as described,Refund
+R00187,O007740,2025-04-03,Not as described,Refund
+R00188,O007749,2024-01-29,Wrong item,Replacement
+R00189,O007771,2025-05-06,Changed mind,Refund
+R00190,O007784,2023-09-01,Wrong item,Refund
+R00191,O007825,2024-08-18,Wrong item,Replacement
+R00192,O007876,2025-05-30,Changed mind,Replacement
+R00193,O007913,2023-09-19,Changed mind,Replacement
+R00194,O007962,2025-12-13,Damaged item,Replacement
+R00195,O007986,2024-06-02,Wrong item,Replacement
+R00196,O007999,2024-09-08,Damaged item,Refund
+R00197,O008002,2025-04-26,Not as described,Refund
+R00198,O008033,2025-09-11,Wrong item,Replacement
+R00199,O008039,2023-04-05,Wrong item,Replacement
+R00200,O008093,2024-07-01,Not as described,Replacement
+R00201,O008133,2025-06-26,Wrong item,Refund
+R00202,O008205,2023-02-15,Damaged item,Refund
+R00203,O008212,2025-11-01,Changed mind,Refund
+R00204,O008262,2023-05-09,Wrong item,Refund
+R00205,O008291,2025-07-31,Changed mind,Refund
+R00206,O008330,2025-04-18,Wrong item,Replacement
+R00207,O008341,2024-01-11,Changed mind,Refund
+R00208,O008370,2024-03-30,Wrong item,Refund
+R00209,O008391,2023-07-30,Changed mind,Refund
+R00210,O008488,2024-05-01,Not as described,Replacement
+R00211,O008499,2025-09-23,Damaged item,Replacement

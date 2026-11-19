@@ -1,0 +1,121 @@
+﻿product_id,product_name,category,subcategory,list_price_idr,unit_cost_idr,product_origin,product_status
+P0001,Computer Accessories Product 001,Electronics,Computer Accessories,643000,461000,Imported,Discontinued
+P0002,Audio Product 002,Electronics,Audio,440000,329000,Imported,Discontinued
+P0003,Computer Accessories Product 003,Electronics,Computer Accessories,234000,129000,Imported,Discontinued
+P0004,Mobile Accessories Product 004,Electronics,Mobile Accessories,488000,277000,Local,Active
+P0005,Mobile Accessories Product 005,Electronics,Mobile Accessories,875000,664000,Local,Discontinued
+P0006,Audio Product 006,Electronics,Audio,1067000,824000,Local,Active
+P0007,Computer Accessories Product 007,Electronics,Computer Accessories,370000,237000,Local,Discontinued
+P0008,Audio Product 008,Electronics,Audio,1811000,927000,Imported,Discontinued
+P0009,Computer Accessories Product 009,Electronics,Computer Accessories,832000,531000,Local,Discontinued
+P0010,Audio Product 010,Electronics,Audio,276000,209000,Imported,Active
+P0011,Mobile Accessories Product 011,Electronics,Mobile Accessories,245000,132000,Local,Discontinued
+P0012,Mobile Accessories Product 012,Electronics,Mobile Accessories,422000,214000,Local,Active
+P0013,Audio Product 013,Electronics,Audio,370000,258000,Imported,Discontinued
+P0014,Computer Accessories Product 014,Electronics,Computer Accessories,593000,407000,Local,Active
+P0015,Audio Product 015,Electronics,Audio,460000,325000,Local,Discontinued
+P0016,Audio Product 016,Electronics,Audio,387000,269000,Imported,Active
+P0017,Audio Product 017,Electronics,Audio,193000,111000,Local,Active
+P0018,Computer Accessories Product 018,Electronics,Computer Accessories,655000,502000,Local,Discontinued
+P0019,Audio Product 019,Electronics,Audio,185000,125000,Local,Discontinued
+P0020,Audio Product 020,Electronics,Audio,834000,589000,Imported,Active
+P0021,Mobile Accessories Product 021,Electronics,Mobile Accessories,153000,80000,Imported,Active
+P0022,Mobile Accessories Product 022,Electronics,Mobile Accessories,180000,115000,Imported,Active
+P0023,Computer Accessories Product 023,Electronics,Computer Accessories,276000,179000,Imported,Discontinued
+P0024,Audio Product 024,Electronics,Audio,352000,211000,Imported,Active
+P0025,Men Clothing Product 025,Fashion,Men Clothing,112000,73000,Imported,Active
+P0026,Women Clothing Product 026,Fashion,Women Clothing,125000,87000,Local,Active
+P0027,Footwear Product 027,Fashion,Footwear,186000,133000,Local,Active
+P0028,Women Clothing Product 028,Fashion,Women Clothing,99000,50000,Imported,Active
+P0029,Men Clothing Product 029,Fashion,Men Clothing,187000,119000,Local,Active
+P0030,Men Clothing Product 030,Fashion,Men Clothing,43000,29000,Imported,Active
+P0031,Women Clothing Product 031,Fashion,Women Clothing,97000,63000,Imported,Active
+P0032,Women Clothing Product 032,Fashion,Women Clothing,62000,43000,Imported,Discontinued
+P0033,Men Clothing Product 033,Fashion,Men Clothing,294000,193000,Imported,Active
+P0034,Men Clothing Product 034,Fashion,Men Clothing,106000,61000,Imported,Active
+P0035,Footwear Product 035,Fashion,Footwear,224000,165000,Local,Active
+P0036,Men Clothing Product 036,Fashion,Men Clothing,57000,36000,Local,Active
+P0037,Women Clothing Product 037,Fashion,Women Clothing,375000,185000,Local,Active
+P0038,Men Clothing Product 038,Fashion,Men Clothing,169000,90000,Local,Active
+P0039,Men Clothing Product 039,Fashion,Men Clothing,509000,388000,Imported,Active
+P0040,Men Clothing Product 040,Fashion,Men Clothing,158000,86000,Imported,Discontinued
+P0041,Men Clothing Product 041,Fashion,Men Clothing,69000,40000,Local,Discontinued
+P0042,Men Clothing Product 042,Fashion,Men Clothing,91000,54000,Local,Active
+P0043,Footwear Product 043,Fashion,Footwear,140000,100000,Imported,Active
+P0044,Footwear Product 044,Fashion,Footwear,93000,55000,Imported,Active
+P0045,Men Clothing Product 045,Fashion,Men Clothing,276000,208000,Local,Active
+P0046,Men Clothing Product 046,Fashion,Men Clothing,166000,105000,Local,Active
+P0047,Women Clothing Product 047,Fashion,Women Clothing,93000,50000,Imported,Discontinued
+P0048,Men Clothing Product 048,Fashion,Men Clothing,251000,158000,Imported,Discontinued
+P0049,Home Decor Product 049,Home & Living,Home Decor,227000,155000,Local,Active
+P0050,Home Decor Product 050,Home & Living,Home Decor,427000,311000,Local,Active
+P0051,Kitchen Product 051,Home & Living,Kitchen,208000,103000,Imported,Discontinued
+P0052,Home Decor Product 052,Home & Living,Home Decor,377000,286000,Imported,Active
+P0053,Furniture Product 053,Home & Living,Furniture,223000,150000,Local,Active
+P0054,Kitchen Product 054,Home & Living,Kitchen,484000,293000,Imported,Discontinued
+P0055,Furniture Product 055,Home & Living,Furniture,101000,51000,Imported,Active
+P0056,Furniture Product 056,Home & Living,Furniture,140000,102000,Local,Active
+P0057,Kitchen Product 057,Home & Living,Kitchen,257000,140000,Imported,Active
+P0058,Kitchen Product 058,Home & Living,Kitchen,190000,103000,Local,Active
+P0059,Furniture Product 059,Home & Living,Furniture,219000,142000,Local,Active
+P0060,Home Decor Product 060,Home & Living,Home Decor,402000,268000,Local,Active
+P0061,Furniture Product 061,Home & Living,Furniture,217000,113000,Local,Discontinued
+P0062,Kitchen Product 062,Home & Living,Kitchen,335000,251000,Imported,Active
+P0063,Furniture Product 063,Home & Living,Furniture,169000,113000,Local,Discontinued
+P0064,Furniture Product 064,Home & Living,Furniture,91000,61000,Imported,Discontinued
+P0065,Furniture Product 065,Home & Living,Furniture,425000,206000,Local,Active
+P0066,Furniture Product 066,Home & Living,Furniture,760000,498000,Imported,Active
+P0067,Kitchen Product 067,Home & Living,Kitchen,315000,186000,Imported,Active
+P0068,Kitchen Product 068,Home & Living,Kitchen,264000,167000,Imported,Discontinued
+P0069,Home Decor Product 069,Home & Living,Home Decor,296000,180000,Local,Active
+P0070,Home Decor Product 070,Home & Living,Home Decor,597000,331000,Imported,Active
+P0071,Home Decor Product 071,Home & Living,Home Decor,317000,187000,Imported,Discontinued
+P0072,Kitchen Product 072,Home & Living,Kitchen,438000,232000,Imported,Active
+P0073,Makeup Product 073,Beauty,Makeup,144000,81000,Imported,Active
+P0074,Makeup Product 074,Beauty,Makeup,173000,108000,Local,Active
+P0075,Personal Care Product 075,Beauty,Personal Care,88000,67000,Local,Discontinued
+P0076,Makeup Product 076,Beauty,Makeup,70000,48000,Local,Discontinued
+P0077,Personal Care Product 077,Beauty,Personal Care,128000,71000,Imported,Active
+P0078,Skincare Product 078,Beauty,Skincare,165000,80000,Local,Active
+P0079,Personal Care Product 079,Beauty,Personal Care,185000,126000,Imported,Active
+P0080,Skincare Product 080,Beauty,Skincare,219000,139000,Local,Active
+P0081,Skincare Product 081,Beauty,Skincare,156000,93000,Imported,Discontinued
+P0082,Makeup Product 082,Beauty,Makeup,68000,34000,Imported,Active
+P0083,Skincare Product 083,Beauty,Skincare,106000,82000,Local,Active
+P0084,Makeup Product 084,Beauty,Makeup,101000,65000,Local,Active
+P0085,Personal Care Product 085,Beauty,Personal Care,95000,69000,Local,Active
+P0086,Personal Care Product 086,Beauty,Personal Care,128000,85000,Imported,Active
+P0087,Makeup Product 087,Beauty,Makeup,84000,61000,Local,Active
+P0088,Makeup Product 088,Beauty,Makeup,84000,61000,Imported,Active
+P0089,Skincare Product 089,Beauty,Skincare,269000,144000,Imported,Active
+P0090,Personal Care Product 090,Beauty,Personal Care,91000,55000,Imported,Active
+P0091,Skincare Product 091,Beauty,Skincare,172000,91000,Local,Discontinued
+P0092,Personal Care Product 092,Beauty,Personal Care,178000,106000,Imported,Active
+P0093,Personal Care Product 093,Beauty,Personal Care,108000,80000,Local,Active
+P0094,Personal Care Product 094,Beauty,Personal Care,86000,44000,Local,Discontinued
+P0095,Makeup Product 095,Beauty,Makeup,58000,43000,Local,Discontinued
+P0096,Skincare Product 096,Beauty,Skincare,38000,22000,Local,Active
+P0097,Fitness Product 097,Sports,Fitness,297000,227000,Imported,Active
+P0098,Sportswear Product 098,Sports,Sportswear,262000,178000,Imported,Active
+P0099,Outdoor Product 099,Sports,Outdoor,323000,228000,Imported,Discontinued
+P0100,Sportswear Product 100,Sports,Sportswear,160000,83000,Local,Active
+P0101,Outdoor Product 101,Sports,Outdoor,638000,350000,Local,Discontinued
+P0102,Outdoor Product 102,Sports,Outdoor,276000,161000,Local,Discontinued
+P0103,Outdoor Product 103,Sports,Outdoor,197000,142000,Imported,Discontinued
+P0104,Sportswear Product 104,Sports,Sportswear,66000,46000,Local,Active
+P0105,Outdoor Product 105,Sports,Outdoor,170000,106000,Imported,Discontinued
+P0106,Outdoor Product 106,Sports,Outdoor,333000,245000,Local,Active
+P0107,Sportswear Product 107,Sports,Sportswear,476000,357000,Local,Active
+P0108,Sportswear Product 108,Sports,Sportswear,215000,165000,Imported,Active
+P0109,Outdoor Product 109,Sports,Outdoor,529000,401000,Imported,Active
+P0110,Outdoor Product 110,Sports,Outdoor,125000,75000,Imported,Active
+P0111,Sportswear Product 111,Sports,Sportswear,267000,155000,Imported,Active
+P0112,Outdoor Product 112,Sports,Outdoor,271000,149000,Local,Discontinued
+P0113,Outdoor Product 113,Sports,Outdoor,298000,187000,Local,Discontinued
+P0114,Sportswear Product 114,Sports,Sportswear,232000,155000,Imported,Discontinued
+P0115,Sportswear Product 115,Sports,Sportswear,258000,157000,Imported,Active
+P0116,Outdoor Product 116,Sports,Outdoor,123000,66000,Local,Active
+P0117,Fitness Product 117,Sports,Fitness,446000,240000,Imported,Active
+P0118,Sportswear Product 118,Sports,Sportswear,357000,252000,Local,Discontinued
+P0119,Outdoor Product 119,Sports,Outdoor,253000,186000,Imported,Active
+P0120,Fitness Product 120,Sports,Fitness,362000,269000,Local,Active

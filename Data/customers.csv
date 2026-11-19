@@ -1,0 +1,1201 @@
+﻿customer_id,customer_name,gender,age,city,province,region,signup_date,initial_membership_tier
+C00001,Customer 0001,Female,39,Denpasar,Bali,Bali & Nusa Tenggara,2024-08-24,Bronze
+C00002,Customer 0002,Male,51,Medan,Sumatera Utara,Sumatra,2022-10-12,Bronze
+C00003,Customer 0003,Female,64,Surabaya,Jawa Timur,East Java,2024-03-23,Bronze
+C00004,Customer 0004,Female,55,Denpasar,Bali,Bali & Nusa Tenggara,2024-11-07,Gold
+C00005,Customer 0005,Female,39,Surabaya,Jawa Timur,East Java,2025-04-03,Gold
+C00006,Customer 0006,Male,62,Jakarta,DKI Jakarta,Jabodetabek,2023-02-05,Bronze
+C00007,Customer 0007,Female,57,Semarang,Jawa Tengah,Central Java,2023-10-26,Bronze
+C00008,Customer 0008,Female,28,Jakarta,DKI Jakarta,Jabodetabek,2023-12-23,Bronze
+C00009,Customer 0009,Female,21,Bandung,Jawa Barat,West Java,2025-05-31,Gold
+C00010,Customer 0010,Female,48,Makassar,Sulawesi Selatan,Sulawesi,2023-05-29,Gold
+C00011,Customer 0011,Male,35,Denpasar,Bali,Bali & Nusa Tenggara,2024-10-18,Bronze
+C00012,Customer 0012,Male,60,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-12-17,Gold
+C00013,Customer 0013,Male,27,Denpasar,Bali,Bali & Nusa Tenggara,2024-12-28,Bronze
+C00014,Customer 0014,Female,20,Jakarta,DKI Jakarta,Jabodetabek,2024-02-18,Gold
+C00015,Customer 0015,Male,50,Gresik,Jawa Timur,East Java,2024-12-09,Silver
+C00016,Customer 0016,Male,64,Denpasar,Bali,Bali & Nusa Tenggara,2023-09-13,Bronze
+C00017,Customer 0017,Female,35,Sidoarjo,Jawa Timur,East Java,2025-06-21,Silver
+C00018,Customer 0018,Female,27,Jakarta,DKI Jakarta,Jabodetabek,2025-02-09,Bronze
+C00019,Customer 0019,Male,40,Surabaya,Jawa Timur,East Java,2024-10-01,Bronze
+C00020,Customer 0020,Male,50,Malang,Jawa Timur,East Java,2024-05-08,Silver
+C00021,Customer 0021,Male,57,Jakarta,DKI Jakarta,Jabodetabek,2023-01-09,Bronze
+C00022,Customer 0022,Male,32,Yogyakarta,DI Yogyakarta,Central Java,2022-10-25,Gold
+C00023,Customer 0023,Female,56,Makassar,Sulawesi Selatan,Sulawesi,2023-12-05,Silver
+C00024,Customer 0024,Female,31,Jakarta,DKI Jakarta,Jabodetabek,2025-06-12,Gold
+C00025,Customer 0025,Male,24,Semarang,Jawa Tengah,Central Java,2024-08-03,Gold
+C00026,Customer 0026,Male,18,Malang,Jawa Timur,East Java,2025-02-20,Gold
+C00027,Customer 0027,Female,49,Makassar,Sulawesi Selatan,Sulawesi,2025-01-22,Gold
+C00028,Customer 0028,Female,55,Yogyakarta,DI Yogyakarta,Central Java,2023-05-29,Bronze
+C00029,Customer 0029,Female,45,Jakarta,DKI Jakarta,Jabodetabek,2024-02-27,Silver
+C00030,Customer 0030,Female,23,Surabaya,Jawa Timur,East Java,2023-04-21,Bronze
+C00031,Customer 0031,Female,40,Semarang,Jawa Tengah,Central Java,2024-08-24,Silver
+C00032,Customer 0032,Male,54,Bandung,Jawa Barat,West Java,2022-10-04,Silver
+C00033,Customer 0033,Male,44,Semarang,Jawa Tengah,Central Java,2024-05-09,Bronze
+C00034,Customer 0034,Male,32,Bandung,Jawa Barat,West Java,2025-02-08,Silver
+C00035,Customer 0035,Female,38,Surabaya,Jawa Timur,East Java,2023-08-21,Gold
+C00036,Customer 0036,Male,37,Malang,Jawa Timur,East Java,2023-05-28,Gold
+C00037,Customer 0037,Female,29,Medan,Sumatera Utara,Sumatra,2022-08-11,Gold
+C00038,Customer 0038,Female,31,Surabaya,Jawa Timur,East Java,2025-04-22,Gold
+C00039,Customer 0039,Female,49,Sidoarjo,Jawa Timur,East Java,2023-12-04,Bronze
+C00040,Customer 0040,Male,55,Bandung,Jawa Barat,West Java,2024-02-27,Silver
+C00041,Customer 0041,Male,37,Semarang,Jawa Tengah,Central Java,2023-11-04,Gold
+C00042,Customer 0042,Female,26,Makassar,Sulawesi Selatan,Sulawesi,2023-07-21,Gold
+C00043,Customer 0043,Male,22,Surabaya,Jawa Timur,East Java,2022-11-05,Bronze
+C00044,Customer 0044,Female,40,Yogyakarta,DI Yogyakarta,Central Java,2024-10-14,Bronze
+C00045,Customer 0045,Male,42,Gresik,Jawa Timur,East Java,2025-06-15,Silver
+C00046,Customer 0046,Male,51,Gresik,Jawa Timur,East Java,2024-02-17,Bronze
+C00047,Customer 0047,Female,36,Jakarta,DKI Jakarta,Jabodetabek,2023-01-16,Gold
+C00048,Customer 0048,Male,48,Sidoarjo,Jawa Timur,East Java,2024-09-28,Bronze
+C00049,Customer 0049,Male,22,Jakarta,DKI Jakarta,Jabodetabek,2025-08-25,Silver
+C00050,Customer 0050,Male,64,Surabaya,Jawa Timur,East Java,2023-08-11,Bronze
+C00051,Customer 0051,Male,51,Palembang,Sumatera Selatan,Sumatra,2024-02-15,Bronze
+C00052,Customer 0052,Female,64,Malang,Jawa Timur,East Java,2025-01-03,Gold
+C00053,Customer 0053,Male,52,Denpasar,Bali,Bali & Nusa Tenggara,2023-05-10,Gold
+C00054,Customer 0054,Male,31,Jakarta,DKI Jakarta,Jabodetabek,2024-12-01,Gold
+C00055,Customer 0055,Male,61,Surabaya,Jawa Timur,East Java,2023-12-19,Silver
+C00056,Customer 0056,Female,27,Jakarta,DKI Jakarta,Jabodetabek,2024-10-22,Bronze
+C00057,Customer 0057,Male,45,Sidoarjo,Jawa Timur,East Java,2025-02-25,Bronze
+C00058,Customer 0058,Female,59,Gresik,Jawa Timur,East Java,2024-01-07,Bronze
+C00059,Customer 0059,Female,52,Denpasar,Bali,Bali & Nusa Tenggara,2024-02-12,Gold
+C00060,Customer 0060,Female,48,Jakarta,DKI Jakarta,Jabodetabek,2023-07-06,Gold
+C00061,Customer 0061,Male,49,Bandung,Jawa Barat,West Java,2022-10-22,Gold
+C00062,Customer 0062,Female,37,Surabaya,Jawa Timur,East Java,2024-12-25,Silver
+C00063,Customer 0063,Male,41,Surabaya,Jawa Timur,East Java,2023-02-01,Gold
+C00064,Customer 0064,Male,24,Sidoarjo,Jawa Timur,East Java,2024-08-31,Gold
+C00065,Customer 0065,Male,46,Surabaya,Jawa Timur,East Java,2023-01-27,Gold
+C00066,Customer 0066,Female,62,Gresik,Jawa Timur,East Java,2023-06-25,Gold
+C00067,Customer 0067,Female,34,Bandung,Jawa Barat,West Java,2023-12-19,Gold
+C00068,Customer 0068,Male,19,Bandung,Jawa Barat,West Java,2023-06-19,Gold
+C00069,Customer 0069,Male,41,Balikpapan,Kalimantan Timur,Kalimantan,2023-11-14,Bronze
+C00070,Customer 0070,Male,21,Denpasar,Bali,Bali & Nusa Tenggara,2022-09-16,Silver
+C00071,Customer 0071,Female,41,Jakarta,DKI Jakarta,Jabodetabek,2024-09-13,Silver
+C00072,Customer 0072,Female,45,Balikpapan,Kalimantan Timur,Kalimantan,2023-01-10,Gold
+C00073,Customer 0073,Male,30,Jakarta,DKI Jakarta,Jabodetabek,2025-02-24,Gold
+C00074,Customer 0074,Female,42,Jakarta,DKI Jakarta,Jabodetabek,2024-04-15,Gold
+C00075,Customer 0075,Female,19,Jakarta,DKI Jakarta,Jabodetabek,2023-06-07,Gold
+C00076,Customer 0076,Male,61,Makassar,Sulawesi Selatan,Sulawesi,2022-07-12,Gold
+C00077,Customer 0077,Female,44,Surabaya,Jawa Timur,East Java,2023-06-28,Bronze
+C00078,Customer 0078,Male,50,Surabaya,Jawa Timur,East Java,2024-09-07,Bronze
+C00079,Customer 0079,Female,49,Sidoarjo,Jawa Timur,East Java,2023-04-19,Gold
+C00080,Customer 0080,Male,54,Yogyakarta,DI Yogyakarta,Central Java,2025-07-31,Silver
+C00081,Customer 0081,Female,61,Surabaya,Jawa Timur,East Java,2024-07-07,Bronze
+C00082,Customer 0082,Male,19,Malang,Jawa Timur,East Java,2023-04-10,Silver
+C00083,Customer 0083,Female,35,Bandung,Jawa Barat,West Java,2024-04-17,Bronze
+C00084,Customer 0084,Female,56,Makassar,Sulawesi Selatan,Sulawesi,2024-01-04,Gold
+C00085,Customer 0085,Female,63,Sidoarjo,Jawa Timur,East Java,2023-03-01,Bronze
+C00086,Customer 0086,Male,42,Sidoarjo,Jawa Timur,East Java,2024-07-16,Bronze
+C00087,Customer 0087,Female,62,Malang,Jawa Timur,East Java,2025-10-02,Bronze
+C00088,Customer 0088,Male,20,Gresik,Jawa Timur,East Java,2024-03-31,Gold
+C00089,Customer 0089,Female,65,Jakarta,DKI Jakarta,Jabodetabek,2025-09-06,Silver
+C00090,Customer 0090,Male,53,Medan,Sumatera Utara,Sumatra,2022-10-18,Bronze
+C00091,Customer 0091,Female,60,Medan,Sumatera Utara,Sumatra,2023-03-26,Gold
+C00092,Customer 0092,Male,33,Bandung,Jawa Barat,West Java,2024-01-15,Silver
+C00093,Customer 0093,Male,49,Denpasar,Bali,Bali & Nusa Tenggara,2023-08-07,Silver
+C00094,Customer 0094,Male,22,Jakarta,DKI Jakarta,Jabodetabek,2025-05-29,Bronze
+C00095,Customer 0095,Female,30,Denpasar,Bali,Bali & Nusa Tenggara,2023-09-29,Bronze
+C00096,Customer 0096,Female,29,Balikpapan,Kalimantan Timur,Kalimantan,2025-08-11,Silver
+C00097,Customer 0097,Female,57,Surabaya,Jawa Timur,East Java,2022-09-20,Gold
+C00098,Customer 0098,Female,26,Gresik,Jawa Timur,East Java,2024-12-13,Gold
+C00099,Customer 0099,Female,59,Bandung,Jawa Barat,West Java,2024-11-10,Bronze
+C00100,Customer 0100,Female,32,Malang,Jawa Timur,East Java,2023-06-02,Gold
+C00101,Customer 0101,Female,64,Denpasar,Bali,Bali & Nusa Tenggara,2023-07-20,Bronze
+C00102,Customer 0102,Female,24,Jakarta,DKI Jakarta,Jabodetabek,2023-12-03,Bronze
+C00103,Customer 0103,Male,29,Surabaya,Jawa Timur,East Java,2023-01-26,Bronze
+C00104,Customer 0104,Female,50,Surabaya,Jawa Timur,East Java,2022-07-22,Silver
+C00105,Customer 0105,Male,42,Surabaya,Jawa Timur,East Java,2023-06-21,Bronze
+C00106,Customer 0106,Female,45,Yogyakarta,DI Yogyakarta,Central Java,2025-01-05,Gold
+C00107,Customer 0107,Male,56,Malang,Jawa Timur,East Java,2025-05-03,Bronze
+C00108,Customer 0108,Male,53,Yogyakarta,DI Yogyakarta,Central Java,2022-10-10,Silver
+C00109,Customer 0109,Female,23,Surabaya,Jawa Timur,East Java,2023-12-03,Bronze
+C00110,Customer 0110,Female,37,Palembang,Sumatera Selatan,Sumatra,2022-10-06,Gold
+C00111,Customer 0111,Male,41,Sidoarjo,Jawa Timur,East Java,2022-12-06,Silver
+C00112,Customer 0112,Male,63,Semarang,Jawa Tengah,Central Java,2023-07-12,Silver
+C00113,Customer 0113,Male,62,Sidoarjo,Jawa Timur,East Java,2025-08-26,Gold
+C00114,Customer 0114,Female,44,Surabaya,Jawa Timur,East Java,2024-06-16,Gold
+C00115,Customer 0115,Female,23,Semarang,Jawa Tengah,Central Java,2025-04-04,Bronze
+C00116,Customer 0116,Male,38,Surabaya,Jawa Timur,East Java,2024-12-15,Gold
+C00117,Customer 0117,Male,46,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-01-16,Bronze
+C00118,Customer 0118,Female,56,Balikpapan,Kalimantan Timur,Kalimantan,2024-12-02,Bronze
+C00119,Customer 0119,Female,55,Jakarta,DKI Jakarta,Jabodetabek,2024-07-31,Gold
+C00120,Customer 0120,Male,23,Surabaya,Jawa Timur,East Java,2024-09-04,Bronze
+C00121,Customer 0121,Male,56,Makassar,Sulawesi Selatan,Sulawesi,2023-04-27,Bronze
+C00122,Customer 0122,Male,43,Malang,Jawa Timur,East Java,2023-08-06,Silver
+C00123,Customer 0123,Female,59,Bandung,Jawa Barat,West Java,2025-07-24,Bronze
+C00124,Customer 0124,Male,37,Bandung,Jawa Barat,West Java,2023-06-13,Gold
+C00125,Customer 0125,Female,38,Jakarta,DKI Jakarta,Jabodetabek,2025-07-16,Bronze
+C00126,Customer 0126,Female,59,Semarang,Jawa Tengah,Central Java,2025-08-29,Bronze
+C00127,Customer 0127,Female,29,Jakarta,DKI Jakarta,Jabodetabek,2024-03-29,Bronze
+C00128,Customer 0128,Male,53,Malang,Jawa Timur,East Java,2025-10-06,Silver
+C00129,Customer 0129,Male,23,Makassar,Sulawesi Selatan,Sulawesi,2025-08-24,Bronze
+C00130,Customer 0130,Male,46,Surabaya,Jawa Timur,East Java,2024-01-22,Bronze
+C00131,Customer 0131,Female,57,Gresik,Jawa Timur,East Java,2023-02-16,Silver
+C00132,Customer 0132,Female,24,Sidoarjo,Jawa Timur,East Java,2025-07-13,Silver
+C00133,Customer 0133,Male,25,Palembang,Sumatera Selatan,Sumatra,2024-06-18,Silver
+C00134,Customer 0134,Male,25,Sidoarjo,Jawa Timur,East Java,2024-05-23,Silver
+C00135,Customer 0135,Male,19,Surabaya,Jawa Timur,East Java,2024-04-09,Bronze
+C00136,Customer 0136,Female,26,Surabaya,Jawa Timur,East Java,2023-02-19,Silver
+C00137,Customer 0137,Female,46,Surabaya,Jawa Timur,East Java,2023-11-28,Bronze
+C00138,Customer 0138,Female,36,Semarang,Jawa Tengah,Central Java,2025-02-18,Gold
+C00139,Customer 0139,Male,42,Sidoarjo,Jawa Timur,East Java,2025-09-24,Bronze
+C00140,Customer 0140,Female,58,Medan,Sumatera Utara,Sumatra,2025-02-06,Gold
+C00141,Customer 0141,Male,26,Surabaya,Jawa Timur,East Java,2024-02-12,Gold
+C00142,Customer 0142,Female,29,Malang,Jawa Timur,East Java,2023-03-31,Bronze
+C00143,Customer 0143,Female,37,Bandung,Jawa Barat,West Java,2025-08-12,Bronze
+C00144,Customer 0144,Female,35,Surabaya,Jawa Timur,East Java,2022-07-09,Gold
+C00145,Customer 0145,Female,22,Bandung,Jawa Barat,West Java,2025-06-07,Gold
+C00146,Customer 0146,Female,20,Makassar,Sulawesi Selatan,Sulawesi,2022-11-06,Silver
+C00147,Customer 0147,Female,22,Palembang,Sumatera Selatan,Sumatra,2024-10-05,Gold
+C00148,Customer 0148,Female,61,Makassar,Sulawesi Selatan,Sulawesi,2025-02-15,Gold
+C00149,Customer 0149,Female,56,Manado,Sulawesi Utara,Sulawesi,2023-07-20,Gold
+C00150,Customer 0150,Female,48,Denpasar,Bali,Bali & Nusa Tenggara,2024-07-23,Silver
+C00151,Customer 0151,Male,24,Denpasar,Bali,Bali & Nusa Tenggara,2024-12-03,Silver
+C00152,Customer 0152,Female,42,Bandung,Jawa Barat,West Java,2023-07-23,Gold
+C00153,Customer 0153,Male,40,Medan,Sumatera Utara,Sumatra,2025-03-27,Bronze
+C00154,Customer 0154,Male,48,Jakarta,DKI Jakarta,Jabodetabek,2024-10-01,Silver
+C00155,Customer 0155,Female,24,Malang,Jawa Timur,East Java,2022-09-12,Gold
+C00156,Customer 0156,Male,38,Jakarta,DKI Jakarta,Jabodetabek,2023-01-15,Silver
+C00157,Customer 0157,Male,35,Malang,Jawa Timur,East Java,2023-08-10,Bronze
+C00158,Customer 0158,Female,33,Jakarta,DKI Jakarta,Jabodetabek,2024-12-01,Silver
+C00159,Customer 0159,Female,50,Jakarta,DKI Jakarta,Jabodetabek,2023-02-05,Bronze
+C00160,Customer 0160,Female,63,Sidoarjo,Jawa Timur,East Java,2025-02-06,Gold
+C00161,Customer 0161,Male,41,Palembang,Sumatera Selatan,Sumatra,2025-04-21,Bronze
+C00162,Customer 0162,Male,43,Sidoarjo,Jawa Timur,East Java,2024-01-04,Bronze
+C00163,Customer 0163,Female,49,Medan,Sumatera Utara,Sumatra,2024-02-08,Silver
+C00164,Customer 0164,Male,43,Makassar,Sulawesi Selatan,Sulawesi,2024-04-24,Bronze
+C00165,Customer 0165,Male,31,Semarang,Jawa Tengah,Central Java,2022-09-25,Gold
+C00166,Customer 0166,Male,27,Denpasar,Bali,Bali & Nusa Tenggara,2022-08-12,Gold
+C00167,Customer 0167,Female,59,Yogyakarta,DI Yogyakarta,Central Java,2024-02-24,Gold
+C00168,Customer 0168,Male,47,Surabaya,Jawa Timur,East Java,2025-08-17,Gold
+C00169,Customer 0169,Female,52,Surabaya,Jawa Timur,East Java,2024-07-16,Bronze
+C00170,Customer 0170,Male,62,Surabaya,Jawa Timur,East Java,2024-03-19,Bronze
+C00171,Customer 0171,Female,64,Surabaya,Jawa Timur,East Java,2025-08-25,Gold
+C00172,Customer 0172,Female,46,Makassar,Sulawesi Selatan,Sulawesi,2023-11-01,Silver
+C00173,Customer 0173,Male,56,Denpasar,Bali,Bali & Nusa Tenggara,2025-10-08,Gold
+C00174,Customer 0174,Female,30,Balikpapan,Kalimantan Timur,Kalimantan,2022-10-17,Gold
+C00175,Customer 0175,Male,22,Bandung,Jawa Barat,West Java,2022-08-30,Bronze
+C00176,Customer 0176,Male,26,Bandung,Jawa Barat,West Java,2023-01-18,Gold
+C00177,Customer 0177,Male,45,Bandung,Jawa Barat,West Java,2022-07-10,Silver
+C00178,Customer 0178,Female,43,Jakarta,DKI Jakarta,Jabodetabek,2024-09-23,Bronze
+C00179,Customer 0179,Male,56,Denpasar,Bali,Bali & Nusa Tenggara,2025-07-09,Silver
+C00180,Customer 0180,Female,46,Jakarta,DKI Jakarta,Jabodetabek,2023-04-09,Bronze
+C00181,Customer 0181,Male,23,Balikpapan,Kalimantan Timur,Kalimantan,2025-04-10,Bronze
+C00182,Customer 0182,Male,22,Surabaya,Jawa Timur,East Java,2024-11-12,Bronze
+C00183,Customer 0183,Male,38,Semarang,Jawa Tengah,Central Java,2024-11-21,Gold
+C00184,Customer 0184,Male,50,Denpasar,Bali,Bali & Nusa Tenggara,2023-03-07,Gold
+C00185,Customer 0185,Female,61,Jakarta,DKI Jakarta,Jabodetabek,2024-12-02,Bronze
+C00186,Customer 0186,Female,30,Denpasar,Bali,Bali & Nusa Tenggara,2024-07-31,Gold
+C00187,Customer 0187,Female,33,Jakarta,DKI Jakarta,Jabodetabek,2024-03-30,Gold
+C00188,Customer 0188,Female,25,Gresik,Jawa Timur,East Java,2025-08-27,Silver
+C00189,Customer 0189,Female,39,Balikpapan,Kalimantan Timur,Kalimantan,2024-04-27,Silver
+C00190,Customer 0190,Female,53,Jakarta,DKI Jakarta,Jabodetabek,2022-12-01,Bronze
+C00191,Customer 0191,Male,62,Bandung,Jawa Barat,West Java,2025-08-12,Silver
+C00192,Customer 0192,Female,41,Denpasar,Bali,Bali & Nusa Tenggara,2024-07-05,Silver
+C00193,Customer 0193,Female,65,Jakarta,DKI Jakarta,Jabodetabek,2024-08-21,Gold
+C00194,Customer 0194,Female,63,Yogyakarta,DI Yogyakarta,Central Java,2025-04-11,Gold
+C00195,Customer 0195,Female,58,Surabaya,Jawa Timur,East Java,2023-05-22,Silver
+C00196,Customer 0196,Male,23,Semarang,Jawa Tengah,Central Java,2022-11-25,Gold
+C00197,Customer 0197,Female,50,Bandung,Jawa Barat,West Java,2022-08-08,Bronze
+C00198,Customer 0198,Female,39,Surabaya,Jawa Timur,East Java,2022-10-23,Bronze
+C00199,Customer 0199,Male,32,Makassar,Sulawesi Selatan,Sulawesi,2023-11-30,Bronze
+C00200,Customer 0200,Female,39,Jakarta,DKI Jakarta,Jabodetabek,2023-07-14,Gold
+C00201,Customer 0201,Male,62,Sidoarjo,Jawa Timur,East Java,2024-03-10,Silver
+C00202,Customer 0202,Female,23,Denpasar,Bali,Bali & Nusa Tenggara,2024-04-14,Silver
+C00203,Customer 0203,Female,60,Manado,Sulawesi Utara,Sulawesi,2022-08-23,Gold
+C00204,Customer 0204,Female,58,Sidoarjo,Jawa Timur,East Java,2025-01-19,Silver
+C00205,Customer 0205,Female,65,Surabaya,Jawa Timur,East Java,2024-09-06,Silver
+C00206,Customer 0206,Female,49,Semarang,Jawa Tengah,Central Java,2022-12-11,Bronze
+C00207,Customer 0207,Male,61,Surabaya,Jawa Timur,East Java,2024-09-24,Silver
+C00208,Customer 0208,Male,29,Surabaya,Jawa Timur,East Java,2023-04-22,Bronze
+C00209,Customer 0209,Female,55,Surabaya,Jawa Timur,East Java,2025-04-21,Bronze
+C00210,Customer 0210,Female,61,Malang,Jawa Timur,East Java,2022-07-18,Silver
+C00211,Customer 0211,Male,19,Semarang,Jawa Tengah,Central Java,2025-06-26,Silver
+C00212,Customer 0212,Female,20,Surabaya,Jawa Timur,East Java,2023-01-04,Silver
+C00213,Customer 0213,Male,56,Bandung,Jawa Barat,West Java,2025-09-19,Gold
+C00214,Customer 0214,Male,58,Malang,Jawa Timur,East Java,2023-06-11,Gold
+C00215,Customer 0215,Male,56,Surabaya,Jawa Timur,East Java,2024-09-10,Bronze
+C00216,Customer 0216,Female,55,Palembang,Sumatera Selatan,Sumatra,2022-11-22,Silver
+C00217,Customer 0217,Female,58,Yogyakarta,DI Yogyakarta,Central Java,2025-03-10,Gold
+C00218,Customer 0218,Male,27,Surabaya,Jawa Timur,East Java,2023-12-30,Bronze
+C00219,Customer 0219,Female,42,Surabaya,Jawa Timur,East Java,2024-10-14,Gold
+C00220,Customer 0220,Male,48,Denpasar,Bali,Bali & Nusa Tenggara,2024-04-18,Silver
+C00221,Customer 0221,Male,25,Medan,Sumatera Utara,Sumatra,2023-12-21,Silver
+C00222,Customer 0222,Female,27,Denpasar,Bali,Bali & Nusa Tenggara,2022-09-02,Silver
+C00223,Customer 0223,Female,52,Sidoarjo,Jawa Timur,East Java,2022-10-28,Silver
+C00224,Customer 0224,Female,47,Manado,Sulawesi Utara,Sulawesi,2024-12-16,Gold
+C00225,Customer 0225,Male,47,Surabaya,Jawa Timur,East Java,2022-09-23,Bronze
+C00226,Customer 0226,Female,60,Surabaya,Jawa Timur,East Java,2023-03-20,Silver
+C00227,Customer 0227,Male,26,Yogyakarta,DI Yogyakarta,Central Java,2023-11-06,Bronze
+C00228,Customer 0228,Male,26,Surabaya,Jawa Timur,East Java,2025-01-10,Gold
+C00229,Customer 0229,Male,40,Manado,Sulawesi Utara,Sulawesi,2024-06-10,Gold
+C00230,Customer 0230,Female,48,Makassar,Sulawesi Selatan,Sulawesi,2023-05-02,Gold
+C00231,Customer 0231,Male,24,Bandung,Jawa Barat,West Java,2023-12-18,Gold
+C00232,Customer 0232,Male,32,Balikpapan,Kalimantan Timur,Kalimantan,2024-04-10,Gold
+C00233,Customer 0233,Male,51,Bandung,Jawa Barat,West Java,2024-04-06,Silver
+C00234,Customer 0234,Male,63,Semarang,Jawa Tengah,Central Java,2023-12-14,Gold
+C00235,Customer 0235,Male,42,Gresik,Jawa Timur,East Java,2024-01-05,Gold
+C00236,Customer 0236,Female,40,Jakarta,DKI Jakarta,Jabodetabek,2025-07-01,Bronze
+C00237,Customer 0237,Male,24,Surabaya,Jawa Timur,East Java,2025-09-11,Gold
+C00238,Customer 0238,Male,32,Sidoarjo,Jawa Timur,East Java,2022-10-21,Gold
+C00239,Customer 0239,Female,47,Jakarta,DKI Jakarta,Jabodetabek,2025-01-28,Gold
+C00240,Customer 0240,Male,37,Semarang,Jawa Tengah,Central Java,2025-09-08,Silver
+C00241,Customer 0241,Female,28,Jakarta,DKI Jakarta,Jabodetabek,2025-04-04,Silver
+C00242,Customer 0242,Male,33,Bandung,Jawa Barat,West Java,2024-06-21,Bronze
+C00243,Customer 0243,Male,38,Surabaya,Jawa Timur,East Java,2023-06-24,Gold
+C00244,Customer 0244,Male,28,Jakarta,DKI Jakarta,Jabodetabek,2022-12-25,Silver
+C00245,Customer 0245,Male,45,Bandung,Jawa Barat,West Java,2023-08-26,Silver
+C00246,Customer 0246,Female,49,Yogyakarta,DI Yogyakarta,Central Java,2024-04-17,Gold
+C00247,Customer 0247,Male,33,Semarang,Jawa Tengah,Central Java,2024-07-09,Gold
+C00248,Customer 0248,Female,44,Makassar,Sulawesi Selatan,Sulawesi,2023-08-16,Gold
+C00249,Customer 0249,Female,48,Jakarta,DKI Jakarta,Jabodetabek,2024-03-27,Silver
+C00250,Customer 0250,Male,42,Jakarta,DKI Jakarta,Jabodetabek,2025-08-28,Bronze
+C00251,Customer 0251,Female,60,Denpasar,Bali,Bali & Nusa Tenggara,2024-04-30,Gold
+C00252,Customer 0252,Male,42,Palembang,Sumatera Selatan,Sumatra,2025-04-16,Bronze
+C00253,Customer 0253,Female,56,Bandung,Jawa Barat,West Java,2023-05-19,Bronze
+C00254,Customer 0254,Female,58,Sidoarjo,Jawa Timur,East Java,2024-03-15,Bronze
+C00255,Customer 0255,Female,23,Jakarta,DKI Jakarta,Jabodetabek,2022-08-19,Silver
+C00256,Customer 0256,Female,58,Surabaya,Jawa Timur,East Java,2025-05-08,Silver
+C00257,Customer 0257,Male,31,Surabaya,Jawa Timur,East Java,2022-10-02,Gold
+C00258,Customer 0258,Female,26,Jakarta,DKI Jakarta,Jabodetabek,2024-02-06,Gold
+C00259,Customer 0259,Male,53,Sidoarjo,Jawa Timur,East Java,2022-09-18,Silver
+C00260,Customer 0260,Male,57,Surabaya,Jawa Timur,East Java,2023-12-07,Bronze
+C00261,Customer 0261,Female,35,Medan,Sumatera Utara,Sumatra,2023-11-11,Gold
+C00262,Customer 0262,Female,46,Gresik,Jawa Timur,East Java,2023-04-14,Bronze
+C00263,Customer 0263,Male,35,Surabaya,Jawa Timur,East Java,2024-03-01,Bronze
+C00264,Customer 0264,Female,65,Balikpapan,Kalimantan Timur,Kalimantan,2022-09-30,Gold
+C00265,Customer 0265,Male,32,Denpasar,Bali,Bali & Nusa Tenggara,2023-11-22,Bronze
+C00266,Customer 0266,Female,51,Semarang,Jawa Tengah,Central Java,2022-12-20,Bronze
+C00267,Customer 0267,Male,48,Jakarta,DKI Jakarta,Jabodetabek,2025-07-15,Bronze
+C00268,Customer 0268,Male,28,Surabaya,Jawa Timur,East Java,2024-09-17,Gold
+C00269,Customer 0269,Male,25,Bandung,Jawa Barat,West Java,2024-01-12,Silver
+C00270,Customer 0270,Male,58,Gresik,Jawa Timur,East Java,2023-11-14,Gold
+C00271,Customer 0271,Male,44,Manado,Sulawesi Utara,Sulawesi,2025-08-23,Bronze
+C00272,Customer 0272,Male,65,Makassar,Sulawesi Selatan,Sulawesi,2025-02-16,Silver
+C00273,Customer 0273,Male,39,Surabaya,Jawa Timur,East Java,2024-02-24,Bronze
+C00274,Customer 0274,Male,21,Jakarta,DKI Jakarta,Jabodetabek,2023-07-30,Gold
+C00275,Customer 0275,Male,38,Denpasar,Bali,Bali & Nusa Tenggara,2022-08-19,Gold
+C00276,Customer 0276,Female,25,Jakarta,DKI Jakarta,Jabodetabek,2025-07-07,Silver
+C00277,Customer 0277,Male,61,Gresik,Jawa Timur,East Java,2023-04-19,Bronze
+C00278,Customer 0278,Male,29,Surabaya,Jawa Timur,East Java,2024-07-28,Bronze
+C00279,Customer 0279,Male,41,Sidoarjo,Jawa Timur,East Java,2023-02-19,Silver
+C00280,Customer 0280,Male,41,Bandung,Jawa Barat,West Java,2024-11-14,Gold
+C00281,Customer 0281,Female,29,Surabaya,Jawa Timur,East Java,2023-05-19,Bronze
+C00282,Customer 0282,Female,48,Makassar,Sulawesi Selatan,Sulawesi,2025-04-20,Bronze
+C00283,Customer 0283,Male,50,Semarang,Jawa Tengah,Central Java,2023-11-01,Gold
+C00284,Customer 0284,Female,20,Denpasar,Bali,Bali & Nusa Tenggara,2024-07-06,Gold
+C00285,Customer 0285,Female,43,Jakarta,DKI Jakarta,Jabodetabek,2024-12-09,Bronze
+C00286,Customer 0286,Male,58,Jakarta,DKI Jakarta,Jabodetabek,2025-07-22,Silver
+C00287,Customer 0287,Male,54,Jakarta,DKI Jakarta,Jabodetabek,2024-03-29,Gold
+C00288,Customer 0288,Male,42,Medan,Sumatera Utara,Sumatra,2023-09-17,Silver
+C00289,Customer 0289,Female,46,Palembang,Sumatera Selatan,Sumatra,2023-07-01,Bronze
+C00290,Customer 0290,Male,34,Medan,Sumatera Utara,Sumatra,2023-10-05,Silver
+C00291,Customer 0291,Female,43,Jakarta,DKI Jakarta,Jabodetabek,2025-04-13,Gold
+C00292,Customer 0292,Male,37,Surabaya,Jawa Timur,East Java,2022-07-27,Silver
+C00293,Customer 0293,Female,48,Palembang,Sumatera Selatan,Sumatra,2024-07-24,Silver
+C00294,Customer 0294,Male,34,Gresik,Jawa Timur,East Java,2022-07-11,Silver
+C00295,Customer 0295,Male,19,Gresik,Jawa Timur,East Java,2023-05-08,Gold
+C00296,Customer 0296,Female,39,Palembang,Sumatera Selatan,Sumatra,2024-10-06,Silver
+C00297,Customer 0297,Female,46,Sidoarjo,Jawa Timur,East Java,2022-12-18,Silver
+C00298,Customer 0298,Male,31,Surabaya,Jawa Timur,East Java,2023-11-11,Silver
+C00299,Customer 0299,Female,48,Yogyakarta,DI Yogyakarta,Central Java,2024-03-22,Silver
+C00300,Customer 0300,Male,47,Manado,Sulawesi Utara,Sulawesi,2025-02-18,Gold
+C00301,Customer 0301,Male,54,Jakarta,DKI Jakarta,Jabodetabek,2025-09-24,Gold
+C00302,Customer 0302,Female,52,Palembang,Sumatera Selatan,Sumatra,2024-03-10,Silver
+C00303,Customer 0303,Female,55,Banjarmasin,Kalimantan Selatan,Kalimantan,2024-07-18,Gold
+C00304,Customer 0304,Female,23,Medan,Sumatera Utara,Sumatra,2022-09-28,Silver
+C00305,Customer 0305,Female,39,Denpasar,Bali,Bali & Nusa Tenggara,2025-02-26,Bronze
+C00306,Customer 0306,Male,49,Bandung,Jawa Barat,West Java,2025-08-27,Bronze
+C00307,Customer 0307,Male,65,Banjarmasin,Kalimantan Selatan,Kalimantan,2022-11-06,Bronze
+C00308,Customer 0308,Female,53,Sidoarjo,Jawa Timur,East Java,2025-03-12,Silver
+C00309,Customer 0309,Male,34,Denpasar,Bali,Bali & Nusa Tenggara,2024-08-03,Silver
+C00310,Customer 0310,Female,19,Surabaya,Jawa Timur,East Java,2023-06-23,Silver
+C00311,Customer 0311,Male,41,Denpasar,Bali,Bali & Nusa Tenggara,2025-08-29,Silver
+C00312,Customer 0312,Male,40,Manado,Sulawesi Utara,Sulawesi,2025-04-27,Silver
+C00313,Customer 0313,Male,37,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-04-17,Silver
+C00314,Customer 0314,Female,22,Makassar,Sulawesi Selatan,Sulawesi,2024-08-18,Silver
+C00315,Customer 0315,Female,56,Bandung,Jawa Barat,West Java,2024-04-09,Gold
+C00316,Customer 0316,Female,57,Palembang,Sumatera Selatan,Sumatra,2023-12-16,Silver
+C00317,Customer 0317,Female,35,Surabaya,Jawa Timur,East Java,2022-09-05,Gold
+C00318,Customer 0318,Female,23,Surabaya,Jawa Timur,East Java,2023-09-16,Gold
+C00319,Customer 0319,Female,52,Semarang,Jawa Tengah,Central Java,2025-01-01,Bronze
+C00320,Customer 0320,Female,59,Denpasar,Bali,Bali & Nusa Tenggara,2022-07-10,Bronze
+C00321,Customer 0321,Female,56,Denpasar,Bali,Bali & Nusa Tenggara,2023-10-16,Gold
+C00322,Customer 0322,Female,29,Surabaya,Jawa Timur,East Java,2025-06-24,Bronze
+C00323,Customer 0323,Female,59,Semarang,Jawa Tengah,Central Java,2023-04-07,Silver
+C00324,Customer 0324,Female,42,Surabaya,Jawa Timur,East Java,2025-08-16,Gold
+C00325,Customer 0325,Female,19,Semarang,Jawa Tengah,Central Java,2024-03-28,Silver
+C00326,Customer 0326,Male,60,Jakarta,DKI Jakarta,Jabodetabek,2024-10-17,Silver
+C00327,Customer 0327,Female,29,Semarang,Jawa Tengah,Central Java,2023-05-02,Gold
+C00328,Customer 0328,Female,34,Medan,Sumatera Utara,Sumatra,2024-03-21,Bronze
+C00329,Customer 0329,Male,32,Medan,Sumatera Utara,Sumatra,2025-06-18,Bronze
+C00330,Customer 0330,Female,37,Bandung,Jawa Barat,West Java,2023-12-21,Silver
+C00331,Customer 0331,Male,60,Sidoarjo,Jawa Timur,East Java,2024-04-20,Silver
+C00332,Customer 0332,Female,22,Gresik,Jawa Timur,East Java,2024-09-23,Bronze
+C00333,Customer 0333,Female,52,Jakarta,DKI Jakarta,Jabodetabek,2023-12-22,Bronze
+C00334,Customer 0334,Male,65,Makassar,Sulawesi Selatan,Sulawesi,2024-04-01,Gold
+C00335,Customer 0335,Female,37,Sidoarjo,Jawa Timur,East Java,2025-01-16,Gold
+C00336,Customer 0336,Female,45,Surabaya,Jawa Timur,East Java,2022-11-21,Silver
+C00337,Customer 0337,Male,51,Manado,Sulawesi Utara,Sulawesi,2025-04-22,Gold
+C00338,Customer 0338,Male,36,Bandung,Jawa Barat,West Java,2022-09-11,Bronze
+C00339,Customer 0339,Male,41,Palembang,Sumatera Selatan,Sumatra,2023-03-21,Bronze
+C00340,Customer 0340,Male,35,Surabaya,Jawa Timur,East Java,2022-11-01,Silver
+C00341,Customer 0341,Female,27,Surabaya,Jawa Timur,East Java,2023-08-26,Silver
+C00342,Customer 0342,Male,39,Surabaya,Jawa Timur,East Java,2023-06-28,Gold
+C00343,Customer 0343,Male,34,Semarang,Jawa Tengah,Central Java,2025-05-22,Gold
+C00344,Customer 0344,Female,64,Jakarta,DKI Jakarta,Jabodetabek,2025-05-30,Silver
+C00345,Customer 0345,Female,43,Denpasar,Bali,Bali & Nusa Tenggara,2024-02-24,Gold
+C00346,Customer 0346,Male,61,Sidoarjo,Jawa Timur,East Java,2023-08-21,Gold
+C00347,Customer 0347,Male,33,Malang,Jawa Timur,East Java,2024-05-03,Silver
+C00348,Customer 0348,Male,43,Palembang,Sumatera Selatan,Sumatra,2023-07-03,Gold
+C00349,Customer 0349,Male,46,Denpasar,Bali,Bali & Nusa Tenggara,2023-03-16,Silver
+C00350,Customer 0350,Female,32,Semarang,Jawa Tengah,Central Java,2022-07-31,Bronze
+C00351,Customer 0351,Male,33,Malang,Jawa Timur,East Java,2023-06-25,Silver
+C00352,Customer 0352,Female,59,Gresik,Jawa Timur,East Java,2023-08-21,Silver
+C00353,Customer 0353,Male,44,Sidoarjo,Jawa Timur,East Java,2022-09-11,Silver
+C00354,Customer 0354,Female,55,Makassar,Sulawesi Selatan,Sulawesi,2024-06-02,Silver
+C00355,Customer 0355,Male,40,Jakarta,DKI Jakarta,Jabodetabek,2025-04-29,Bronze
+C00356,Customer 0356,Male,50,Manado,Sulawesi Utara,Sulawesi,2024-06-06,Bronze
+C00357,Customer 0357,Male,61,Makassar,Sulawesi Selatan,Sulawesi,2024-09-13,Silver
+C00358,Customer 0358,Male,26,Makassar,Sulawesi Selatan,Sulawesi,2024-01-16,Silver
+C00359,Customer 0359,Male,22,Bandung,Jawa Barat,West Java,2023-07-19,Gold
+C00360,Customer 0360,Female,63,Semarang,Jawa Tengah,Central Java,2023-07-18,Gold
+C00361,Customer 0361,Female,38,Jakarta,DKI Jakarta,Jabodetabek,2025-07-26,Bronze
+C00362,Customer 0362,Female,64,Surabaya,Jawa Timur,East Java,2025-07-30,Gold
+C00363,Customer 0363,Male,19,Surabaya,Jawa Timur,East Java,2023-06-18,Silver
+C00364,Customer 0364,Female,21,Malang,Jawa Timur,East Java,2024-05-17,Gold
+C00365,Customer 0365,Male,42,Jakarta,DKI Jakarta,Jabodetabek,2023-05-13,Gold
+C00366,Customer 0366,Male,20,Sidoarjo,Jawa Timur,East Java,2022-08-27,Silver
+C00367,Customer 0367,Female,36,Surabaya,Jawa Timur,East Java,2024-08-01,Bronze
+C00368,Customer 0368,Male,51,Surabaya,Jawa Timur,East Java,2025-06-12,Bronze
+C00369,Customer 0369,Male,32,Malang,Jawa Timur,East Java,2025-09-15,Gold
+C00370,Customer 0370,Female,37,Jakarta,DKI Jakarta,Jabodetabek,2023-04-03,Silver
+C00371,Customer 0371,Male,23,Surabaya,Jawa Timur,East Java,2023-06-13,Silver
+C00372,Customer 0372,Male,18,Medan,Sumatera Utara,Sumatra,2023-01-12,Silver
+C00373,Customer 0373,Male,41,Jakarta,DKI Jakarta,Jabodetabek,2023-05-26,Silver
+C00374,Customer 0374,Male,38,Jakarta,DKI Jakarta,Jabodetabek,2023-11-05,Silver
+C00375,Customer 0375,Male,58,Denpasar,Bali,Bali & Nusa Tenggara,2024-01-12,Silver
+C00376,Customer 0376,Female,33,Malang,Jawa Timur,East Java,2023-04-01,Bronze
+C00377,Customer 0377,Female,41,Malang,Jawa Timur,East Java,2025-07-02,Silver
+C00378,Customer 0378,Female,28,Semarang,Jawa Tengah,Central Java,2023-08-05,Gold
+C00379,Customer 0379,Female,62,Jakarta,DKI Jakarta,Jabodetabek,2023-04-23,Bronze
+C00380,Customer 0380,Female,40,Surabaya,Jawa Timur,East Java,2024-02-14,Gold
+C00381,Customer 0381,Male,25,Yogyakarta,DI Yogyakarta,Central Java,2023-02-15,Silver
+C00382,Customer 0382,Male,24,Surabaya,Jawa Timur,East Java,2023-07-18,Bronze
+C00383,Customer 0383,Female,18,Palembang,Sumatera Selatan,Sumatra,2022-10-16,Silver
+C00384,Customer 0384,Female,19,Gresik,Jawa Timur,East Java,2025-03-06,Silver
+C00385,Customer 0385,Female,47,Surabaya,Jawa Timur,East Java,2024-10-25,Silver
+C00386,Customer 0386,Female,45,Malang,Jawa Timur,East Java,2022-10-15,Gold
+C00387,Customer 0387,Female,58,Bandung,Jawa Barat,West Java,2024-10-02,Silver
+C00388,Customer 0388,Female,58,Surabaya,Jawa Timur,East Java,2023-06-02,Bronze
+C00389,Customer 0389,Male,25,Semarang,Jawa Tengah,Central Java,2024-01-01,Gold
+C00390,Customer 0390,Female,59,Denpasar,Bali,Bali & Nusa Tenggara,2025-10-07,Gold
+C00391,Customer 0391,Male,62,Malang,Jawa Timur,East Java,2023-04-25,Bronze
+C00392,Customer 0392,Female,46,Jakarta,DKI Jakarta,Jabodetabek,2025-09-04,Gold
+C00393,Customer 0393,Male,35,Manado,Sulawesi Utara,Sulawesi,2022-10-04,Silver
+C00394,Customer 0394,Male,33,Makassar,Sulawesi Selatan,Sulawesi,2022-12-26,Silver
+C00395,Customer 0395,Male,46,Makassar,Sulawesi Selatan,Sulawesi,2022-11-13,Bronze
+C00396,Customer 0396,Female,37,Malang,Jawa Timur,East Java,2024-03-10,Silver
+C00397,Customer 0397,Male,21,Sidoarjo,Jawa Timur,East Java,2025-03-14,Bronze
+C00398,Customer 0398,Female,34,Surabaya,Jawa Timur,East Java,2024-11-30,Silver
+C00399,Customer 0399,Male,25,Surabaya,Jawa Timur,East Java,2024-10-20,Bronze
+C00400,Customer 0400,Female,51,Yogyakarta,DI Yogyakarta,Central Java,2025-04-10,Bronze
+C00401,Customer 0401,Female,33,Denpasar,Bali,Bali & Nusa Tenggara,2025-03-18,Gold
+C00402,Customer 0402,Male,46,Medan,Sumatera Utara,Sumatra,2022-12-25,Bronze
+C00403,Customer 0403,Female,24,Surabaya,Jawa Timur,East Java,2025-01-17,Bronze
+C00404,Customer 0404,Male,26,Yogyakarta,DI Yogyakarta,Central Java,2022-09-11,Gold
+C00405,Customer 0405,Female,65,Jakarta,DKI Jakarta,Jabodetabek,2022-11-23,Gold
+C00406,Customer 0406,Male,18,Surabaya,Jawa Timur,East Java,2025-07-13,Silver
+C00407,Customer 0407,Male,46,Manado,Sulawesi Utara,Sulawesi,2024-05-24,Silver
+C00408,Customer 0408,Male,61,Surabaya,Jawa Timur,East Java,2024-05-18,Silver
+C00409,Customer 0409,Female,43,Medan,Sumatera Utara,Sumatra,2023-11-11,Gold
+C00410,Customer 0410,Female,31,Semarang,Jawa Tengah,Central Java,2023-02-04,Bronze
+C00411,Customer 0411,Female,46,Surabaya,Jawa Timur,East Java,2023-12-19,Silver
+C00412,Customer 0412,Female,49,Sidoarjo,Jawa Timur,East Java,2023-08-17,Bronze
+C00413,Customer 0413,Female,18,Makassar,Sulawesi Selatan,Sulawesi,2023-02-13,Bronze
+C00414,Customer 0414,Female,29,Bandung,Jawa Barat,West Java,2023-01-04,Bronze
+C00415,Customer 0415,Female,30,Medan,Sumatera Utara,Sumatra,2025-04-02,Silver
+C00416,Customer 0416,Male,44,Bandung,Jawa Barat,West Java,2023-02-08,Gold
+C00417,Customer 0417,Male,50,Jakarta,DKI Jakarta,Jabodetabek,2024-12-18,Silver
+C00418,Customer 0418,Female,45,Yogyakarta,DI Yogyakarta,Central Java,2025-01-01,Bronze
+C00419,Customer 0419,Male,65,Denpasar,Bali,Bali & Nusa Tenggara,2024-11-08,Gold
+C00420,Customer 0420,Male,42,Jakarta,DKI Jakarta,Jabodetabek,2025-07-14,Gold
+C00421,Customer 0421,Male,56,Surabaya,Jawa Timur,East Java,2022-08-12,Bronze
+C00422,Customer 0422,Female,37,Bandung,Jawa Barat,West Java,2023-11-26,Silver
+C00423,Customer 0423,Female,60,Surabaya,Jawa Timur,East Java,2025-01-12,Silver
+C00424,Customer 0424,Female,50,Jakarta,DKI Jakarta,Jabodetabek,2023-01-09,Gold
+C00425,Customer 0425,Female,64,Gresik,Jawa Timur,East Java,2023-09-05,Gold
+C00426,Customer 0426,Female,27,Gresik,Jawa Timur,East Java,2024-09-26,Silver
+C00427,Customer 0427,Female,61,Medan,Sumatera Utara,Sumatra,2025-09-23,Bronze
+C00428,Customer 0428,Female,40,Malang,Jawa Timur,East Java,2023-08-16,Bronze
+C00429,Customer 0429,Male,60,Denpasar,Bali,Bali & Nusa Tenggara,2024-08-12,Gold
+C00430,Customer 0430,Male,42,Jakarta,DKI Jakarta,Jabodetabek,2023-11-08,Silver
+C00431,Customer 0431,Female,53,Denpasar,Bali,Bali & Nusa Tenggara,2024-08-22,Silver
+C00432,Customer 0432,Male,45,Denpasar,Bali,Bali & Nusa Tenggara,2025-08-13,Gold
+C00433,Customer 0433,Male,61,Surabaya,Jawa Timur,East Java,2025-01-20,Silver
+C00434,Customer 0434,Male,56,Medan,Sumatera Utara,Sumatra,2025-04-29,Silver
+C00435,Customer 0435,Female,27,Surabaya,Jawa Timur,East Java,2022-07-04,Gold
+C00436,Customer 0436,Female,19,Denpasar,Bali,Bali & Nusa Tenggara,2023-12-29,Silver
+C00437,Customer 0437,Male,36,Banjarmasin,Kalimantan Selatan,Kalimantan,2025-09-28,Gold
+C00438,Customer 0438,Male,60,Yogyakarta,DI Yogyakarta,Central Java,2025-07-22,Bronze
+C00439,Customer 0439,Female,33,Jakarta,DKI Jakarta,Jabodetabek,2024-07-21,Bronze
+C00440,Customer 0440,Female,45,Bandung,Jawa Barat,West Java,2024-05-16,Gold
+C00441,Customer 0441,Male,46,Jakarta,DKI Jakarta,Jabodetabek,2022-07-13,Gold
+C00442,Customer 0442,Female,40,Balikpapan,Kalimantan Timur,Kalimantan,2024-02-26,Bronze
+C00443,Customer 0443,Male,36,Malang,Jawa Timur,East Java,2023-08-10,Gold
+C00444,Customer 0444,Male,24,Jakarta,DKI Jakarta,Jabodetabek,2025-01-08,Silver
+C00445,Customer 0445,Female,50,Gresik,Jawa Timur,East Java,2023-07-05,Gold
+C00446,Customer 0446,Male,63,Jakarta,DKI Jakarta,Jabodetabek,2022-07-29,Gold
+C00447,Customer 0447,Male,22,Malang,Jawa Timur,East Java,2023-02-23,Bronze
+C00448,Customer 0448,Male,60,Denpasar,Bali,Bali & Nusa Tenggara,2024-06-01,Silver
+C00449,Customer 0449,Male,27,Sidoarjo,Jawa Timur,East Java,2024-01-25,Silver
+C00450,Customer 0450,Male,43,Gresik,Jawa Timur,East Java,2024-01-26,Gold
+C00451,Customer 0451,Female,30,Jakarta,DKI Jakarta,Jabodetabek,2023-12-28,Bronze
+C00452,Customer 0452,Male,41,Surabaya,Jawa Timur,East Java,2022-07-11,Silver
+C00453,Customer 0453,Male,49,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-04-20,Silver
+C00454,Customer 0454,Male,23,Jakarta,DKI Jakarta,Jabodetabek,2025-05-26,Gold
+C00455,Customer 0455,Female,32,Malang,Jawa Timur,East Java,2022-12-10,Silver
+C00456,Customer 0456,Female,60,Denpasar,Bali,Bali & Nusa Tenggara,2023-06-27,Silver
+C00457,Customer 0457,Male,65,Palembang,Sumatera Selatan,Sumatra,2022-11-04,Silver
+C00458,Customer 0458,Female,63,Manado,Sulawesi Utara,Sulawesi,2023-08-30,Silver
+C00459,Customer 0459,Female,24,Surabaya,Jawa Timur,East Java,2023-11-05,Gold
+C00460,Customer 0460,Male,44,Sidoarjo,Jawa Timur,East Java,2023-03-24,Silver
+C00461,Customer 0461,Female,58,Surabaya,Jawa Timur,East Java,2025-03-06,Bronze
+C00462,Customer 0462,Male,44,Bandung,Jawa Barat,West Java,2023-10-27,Gold
+C00463,Customer 0463,Male,30,Gresik,Jawa Timur,East Java,2022-10-07,Gold
+C00464,Customer 0464,Male,58,Gresik,Jawa Timur,East Java,2022-11-06,Bronze
+C00465,Customer 0465,Female,53,Bandung,Jawa Barat,West Java,2024-03-20,Silver
+C00466,Customer 0466,Female,35,Sidoarjo,Jawa Timur,East Java,2025-04-13,Silver
+C00467,Customer 0467,Male,54,Jakarta,DKI Jakarta,Jabodetabek,2022-11-11,Gold
+C00468,Customer 0468,Male,27,Denpasar,Bali,Bali & Nusa Tenggara,2022-08-21,Bronze
+C00469,Customer 0469,Female,23,Balikpapan,Kalimantan Timur,Kalimantan,2023-11-03,Gold
+C00470,Customer 0470,Female,22,Medan,Sumatera Utara,Sumatra,2024-11-19,Gold
+C00471,Customer 0471,Female,58,Malang,Jawa Timur,East Java,2023-01-30,Silver
+C00472,Customer 0472,Female,37,Gresik,Jawa Timur,East Java,2024-08-19,Gold
+C00473,Customer 0473,Male,29,Jakarta,DKI Jakarta,Jabodetabek,2023-02-08,Bronze
+C00474,Customer 0474,Female,58,Yogyakarta,DI Yogyakarta,Central Java,2022-12-08,Bronze
+C00475,Customer 0475,Male,34,Medan,Sumatera Utara,Sumatra,2024-12-13,Bronze
+C00476,Customer 0476,Female,29,Bandung,Jawa Barat,West Java,2024-11-10,Silver
+C00477,Customer 0477,Male,25,Malang,Jawa Timur,East Java,2023-06-21,Gold
+C00478,Customer 0478,Male,60,Balikpapan,Kalimantan Timur,Kalimantan,2022-09-28,Silver
+C00479,Customer 0479,Male,42,Denpasar,Bali,Bali & Nusa Tenggara,2023-07-30,Silver
+C00480,Customer 0480,Female,43,Jakarta,DKI Jakarta,Jabodetabek,2023-12-24,Silver
+C00481,Customer 0481,Female,38,Bandung,Jawa Barat,West Java,2025-03-17,Silver
+C00482,Customer 0482,Female,24,Surabaya,Jawa Timur,East Java,2023-09-05,Gold
+C00483,Customer 0483,Female,41,Balikpapan,Kalimantan Timur,Kalimantan,2022-10-16,Bronze
+C00484,Customer 0484,Male,25,Balikpapan,Kalimantan Timur,Kalimantan,2022-12-24,Silver
+C00485,Customer 0485,Male,27,Bandung,Jawa Barat,West Java,2025-08-25,Gold
+C00486,Customer 0486,Male,19,Malang,Jawa Timur,East Java,2025-05-15,Bronze
+C00487,Customer 0487,Male,62,Surabaya,Jawa Timur,East Java,2023-01-05,Gold
+C00488,Customer 0488,Male,47,Sidoarjo,Jawa Timur,East Java,2025-07-03,Gold
+C00489,Customer 0489,Male,37,Jakarta,DKI Jakarta,Jabodetabek,2025-09-08,Bronze
+C00490,Customer 0490,Male,26,Bandung,Jawa Barat,West Java,2024-08-31,Gold
+C00491,Customer 0491,Male,57,Manado,Sulawesi Utara,Sulawesi,2022-12-19,Silver
+C00492,Customer 0492,Male,40,Denpasar,Bali,Bali & Nusa Tenggara,2023-09-19,Gold
+C00493,Customer 0493,Male,62,Gresik,Jawa Timur,East Java,2025-03-21,Silver
+C00494,Customer 0494,Male,20,Jakarta,DKI Jakarta,Jabodetabek,2024-05-01,Bronze
+C00495,Customer 0495,Female,56,Jakarta,DKI Jakarta,Jabodetabek,2022-09-07,Gold
+C00496,Customer 0496,Male,54,Semarang,Jawa Tengah,Central Java,2022-09-03,Bronze
+C00497,Customer 0497,Male,28,Makassar,Sulawesi Selatan,Sulawesi,2025-03-19,Bronze
+C00498,Customer 0498,Male,39,Palembang,Sumatera Selatan,Sumatra,2024-03-29,Gold
+C00499,Customer 0499,Male,18,Semarang,Jawa Tengah,Central Java,2024-12-21,Gold
+C00500,Customer 0500,Male,31,Manado,Sulawesi Utara,Sulawesi,2023-06-02,Silver
+C00501,Customer 0501,Female,39,Surabaya,Jawa Timur,East Java,2023-10-21,Silver
+C00502,Customer 0502,Female,25,Surabaya,Jawa Timur,East Java,2023-12-03,Bronze
+C00503,Customer 0503,Male,36,Semarang,Jawa Tengah,Central Java,2024-02-17,Bronze
+C00504,Customer 0504,Male,33,Palembang,Sumatera Selatan,Sumatra,2024-08-16,Bronze
+C00505,Customer 0505,Male,40,Yogyakarta,DI Yogyakarta,Central Java,2024-11-10,Bronze
+C00506,Customer 0506,Female,46,Semarang,Jawa Tengah,Central Java,2024-08-28,Silver
+C00507,Customer 0507,Female,63,Jakarta,DKI Jakarta,Jabodetabek,2024-07-06,Bronze
+C00508,Customer 0508,Male,26,Jakarta,DKI Jakarta,Jabodetabek,2024-04-27,Silver
+C00509,Customer 0509,Male,58,Semarang,Jawa Tengah,Central Java,2025-09-26,Gold
+C00510,Customer 0510,Male,39,Surabaya,Jawa Timur,East Java,2025-09-28,Gold
+C00511,Customer 0511,Female,53,Medan,Sumatera Utara,Sumatra,2024-12-12,Silver
+C00512,Customer 0512,Male,43,Manado,Sulawesi Utara,Sulawesi,2023-12-26,Silver
+C00513,Customer 0513,Male,32,Semarang,Jawa Tengah,Central Java,2023-01-23,Gold
+C00514,Customer 0514,Female,35,Balikpapan,Kalimantan Timur,Kalimantan,2024-11-04,Gold
+C00515,Customer 0515,Female,37,Denpasar,Bali,Bali & Nusa Tenggara,2023-10-17,Bronze
+C00516,Customer 0516,Male,52,Bandung,Jawa Barat,West Java,2022-12-27,Bronze
+C00517,Customer 0517,Female,61,Jakarta,DKI Jakarta,Jabodetabek,2024-11-17,Silver
+C00518,Customer 0518,Female,49,Jakarta,DKI Jakarta,Jabodetabek,2023-02-13,Gold
+C00519,Customer 0519,Female,37,Jakarta,DKI Jakarta,Jabodetabek,2024-10-13,Silver
+C00520,Customer 0520,Female,24,Jakarta,DKI Jakarta,Jabodetabek,2023-05-07,Gold
+C00521,Customer 0521,Male,50,Surabaya,Jawa Timur,East Java,2023-07-25,Bronze
+C00522,Customer 0522,Female,49,Semarang,Jawa Tengah,Central Java,2024-11-26,Silver
+C00523,Customer 0523,Female,33,Surabaya,Jawa Timur,East Java,2025-05-30,Silver
+C00524,Customer 0524,Male,55,Malang,Jawa Timur,East Java,2023-01-11,Silver
+C00525,Customer 0525,Male,29,Medan,Sumatera Utara,Sumatra,2024-12-18,Bronze
+C00526,Customer 0526,Female,24,Semarang,Jawa Tengah,Central Java,2023-01-23,Gold
+C00527,Customer 0527,Male,24,Sidoarjo,Jawa Timur,East Java,2025-01-05,Gold
+C00528,Customer 0528,Female,50,Sidoarjo,Jawa Timur,East Java,2023-06-03,Bronze
+C00529,Customer 0529,Female,27,Palembang,Sumatera Selatan,Sumatra,2024-12-06,Bronze
+C00530,Customer 0530,Male,51,Bandung,Jawa Barat,West Java,2024-04-16,Gold
+C00531,Customer 0531,Female,47,Balikpapan,Kalimantan Timur,Kalimantan,2024-05-29,Silver
+C00532,Customer 0532,Female,48,Malang,Jawa Timur,East Java,2023-07-05,Bronze
+C00533,Customer 0533,Male,64,Sidoarjo,Jawa Timur,East Java,2024-11-08,Gold
+C00534,Customer 0534,Male,50,Jakarta,DKI Jakarta,Jabodetabek,2023-12-11,Silver
+C00535,Customer 0535,Male,37,Surabaya,Jawa Timur,East Java,2024-04-08,Gold
+C00536,Customer 0536,Female,47,Medan,Sumatera Utara,Sumatra,2025-08-28,Silver
+C00537,Customer 0537,Male,62,Jakarta,DKI Jakarta,Jabodetabek,2023-01-28,Gold
+C00538,Customer 0538,Female,33,Medan,Sumatera Utara,Sumatra,2023-07-29,Bronze
+C00539,Customer 0539,Male,41,Bandung,Jawa Barat,West Java,2024-10-23,Silver
+C00540,Customer 0540,Male,34,Semarang,Jawa Tengah,Central Java,2025-03-02,Gold
+C00541,Customer 0541,Male,61,Malang,Jawa Timur,East Java,2023-10-27,Gold
+C00542,Customer 0542,Male,58,Palembang,Sumatera Selatan,Sumatra,2023-07-15,Silver
+C00543,Customer 0543,Male,53,Banjarmasin,Kalimantan Selatan,Kalimantan,2022-07-26,Bronze
+C00544,Customer 0544,Male,54,Denpasar,Bali,Bali & Nusa Tenggara,2023-04-06,Silver
+C00545,Customer 0545,Female,39,Jakarta,DKI Jakarta,Jabodetabek,2024-07-21,Bronze
+C00546,Customer 0546,Male,48,Malang,Jawa Timur,East Java,2024-06-27,Gold
+C00547,Customer 0547,Male,30,Sidoarjo,Jawa Timur,East Java,2023-07-02,Gold
+C00548,Customer 0548,Male,37,Bandung,Jawa Barat,West Java,2023-09-09,Gold
+C00549,Customer 0549,Male,57,Malang,Jawa Timur,East Java,2024-08-27,Bronze
+C00550,Customer 0550,Male,26,Medan,Sumatera Utara,Sumatra,2024-05-16,Silver
+C00551,Customer 0551,Female,34,Surabaya,Jawa Timur,East Java,2022-08-17,Gold
+C00552,Customer 0552,Female,58,Makassar,Sulawesi Selatan,Sulawesi,2022-12-09,Gold
+C00553,Customer 0553,Male,55,Surabaya,Jawa Timur,East Java,2024-10-17,Silver
+C00554,Customer 0554,Female,36,Surabaya,Jawa Timur,East Java,2022-11-16,Gold
+C00555,Customer 0555,Male,27,Manado,Sulawesi Utara,Sulawesi,2023-06-09,Bronze
+C00556,Customer 0556,Female,38,Gresik,Jawa Timur,East Java,2022-08-01,Gold
+C00557,Customer 0557,Male,62,Semarang,Jawa Tengah,Central Java,2025-05-19,Gold
+C00558,Customer 0558,Female,21,Manado,Sulawesi Utara,Sulawesi,2024-07-29,Gold
+C00559,Customer 0559,Female,55,Surabaya,Jawa Timur,East Java,2024-06-06,Gold
+C00560,Customer 0560,Female,60,Sidoarjo,Jawa Timur,East Java,2024-01-23,Silver
+C00561,Customer 0561,Male,23,Semarang,Jawa Tengah,Central Java,2023-12-26,Bronze
+C00562,Customer 0562,Male,26,Makassar,Sulawesi Selatan,Sulawesi,2024-05-21,Gold
+C00563,Customer 0563,Female,44,Jakarta,DKI Jakarta,Jabodetabek,2024-02-28,Bronze
+C00564,Customer 0564,Male,50,Jakarta,DKI Jakarta,Jabodetabek,2023-06-20,Silver
+C00565,Customer 0565,Male,65,Semarang,Jawa Tengah,Central Java,2022-07-02,Bronze
+C00566,Customer 0566,Female,42,Manado,Sulawesi Utara,Sulawesi,2022-08-08,Bronze
+C00567,Customer 0567,Male,52,Surabaya,Jawa Timur,East Java,2024-09-28,Gold
+C00568,Customer 0568,Male,33,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-07-20,Bronze
+C00569,Customer 0569,Male,38,Jakarta,DKI Jakarta,Jabodetabek,2023-01-30,Silver
+C00570,Customer 0570,Male,50,Surabaya,Jawa Timur,East Java,2023-09-16,Gold
+C00571,Customer 0571,Male,55,Jakarta,DKI Jakarta,Jabodetabek,2023-07-24,Bronze
+C00572,Customer 0572,Male,57,Makassar,Sulawesi Selatan,Sulawesi,2025-06-22,Bronze
+C00573,Customer 0573,Female,33,Jakarta,DKI Jakarta,Jabodetabek,2023-10-17,Bronze
+C00574,Customer 0574,Male,56,Denpasar,Bali,Bali & Nusa Tenggara,2024-11-04,Gold
+C00575,Customer 0575,Male,60,Jakarta,DKI Jakarta,Jabodetabek,2023-03-24,Bronze
+C00576,Customer 0576,Male,60,Surabaya,Jawa Timur,East Java,2024-05-14,Bronze
+C00577,Customer 0577,Male,25,Surabaya,Jawa Timur,East Java,2023-07-27,Gold
+C00578,Customer 0578,Female,21,Bandung,Jawa Barat,West Java,2023-06-02,Silver
+C00579,Customer 0579,Male,18,Surabaya,Jawa Timur,East Java,2023-03-30,Gold
+C00580,Customer 0580,Male,55,Jakarta,DKI Jakarta,Jabodetabek,2025-04-16,Gold
+C00581,Customer 0581,Male,49,Surabaya,Jawa Timur,East Java,2023-08-10,Gold
+C00582,Customer 0582,Male,26,Makassar,Sulawesi Selatan,Sulawesi,2023-08-15,Bronze
+C00583,Customer 0583,Female,59,Gresik,Jawa Timur,East Java,2022-09-17,Silver
+C00584,Customer 0584,Female,43,Makassar,Sulawesi Selatan,Sulawesi,2024-04-24,Gold
+C00585,Customer 0585,Male,22,Makassar,Sulawesi Selatan,Sulawesi,2022-08-22,Gold
+C00586,Customer 0586,Female,53,Jakarta,DKI Jakarta,Jabodetabek,2024-04-15,Gold
+C00587,Customer 0587,Female,54,Malang,Jawa Timur,East Java,2023-07-28,Gold
+C00588,Customer 0588,Male,54,Jakarta,DKI Jakarta,Jabodetabek,2024-04-07,Gold
+C00589,Customer 0589,Male,35,Jakarta,DKI Jakarta,Jabodetabek,2023-07-06,Gold
+C00590,Customer 0590,Male,28,Malang,Jawa Timur,East Java,2024-07-20,Bronze
+C00591,Customer 0591,Female,23,Denpasar,Bali,Bali & Nusa Tenggara,2025-08-28,Bronze
+C00592,Customer 0592,Female,26,Surabaya,Jawa Timur,East Java,2023-08-09,Silver
+C00593,Customer 0593,Male,57,Gresik,Jawa Timur,East Java,2022-08-22,Bronze
+C00594,Customer 0594,Female,65,Jakarta,DKI Jakarta,Jabodetabek,2024-10-16,Bronze
+C00595,Customer 0595,Female,49,Surabaya,Jawa Timur,East Java,2025-09-28,Silver
+C00596,Customer 0596,Male,36,Jakarta,DKI Jakarta,Jabodetabek,2025-07-06,Silver
+C00597,Customer 0597,Male,64,Medan,Sumatera Utara,Sumatra,2025-08-17,Gold
+C00598,Customer 0598,Female,27,Medan,Sumatera Utara,Sumatra,2023-12-28,Silver
+C00599,Customer 0599,Female,49,Malang,Jawa Timur,East Java,2024-01-19,Silver
+C00600,Customer 0600,Male,53,Sidoarjo,Jawa Timur,East Java,2023-04-29,Silver
+C00601,Customer 0601,Female,44,Bandung,Jawa Barat,West Java,2024-12-12,Gold
+C00602,Customer 0602,Male,52,Makassar,Sulawesi Selatan,Sulawesi,2023-09-19,Bronze
+C00603,Customer 0603,Male,20,Surabaya,Jawa Timur,East Java,2024-03-28,Silver
+C00604,Customer 0604,Female,41,Bandung,Jawa Barat,West Java,2023-09-20,Silver
+C00605,Customer 0605,Female,38,Malang,Jawa Timur,East Java,2023-06-12,Gold
+C00606,Customer 0606,Male,57,Denpasar,Bali,Bali & Nusa Tenggara,2022-11-02,Gold
+C00607,Customer 0607,Male,36,Bandung,Jawa Barat,West Java,2023-01-06,Bronze
+C00608,Customer 0608,Male,43,Sidoarjo,Jawa Timur,East Java,2022-12-06,Silver
+C00609,Customer 0609,Female,45,Sidoarjo,Jawa Timur,East Java,2023-12-23,Bronze
+C00610,Customer 0610,Male,21,Semarang,Jawa Tengah,Central Java,2025-04-09,Bronze
+C00611,Customer 0611,Female,28,Surabaya,Jawa Timur,East Java,2022-07-12,Gold
+C00612,Customer 0612,Female,49,Medan,Sumatera Utara,Sumatra,2025-01-14,Bronze
+C00613,Customer 0613,Male,60,Gresik,Jawa Timur,East Java,2025-04-03,Bronze
+C00614,Customer 0614,Female,40,Jakarta,DKI Jakarta,Jabodetabek,2025-03-23,Gold
+C00615,Customer 0615,Female,20,Balikpapan,Kalimantan Timur,Kalimantan,2024-01-21,Bronze
+C00616,Customer 0616,Female,46,Malang,Jawa Timur,East Java,2024-01-20,Gold
+C00617,Customer 0617,Female,50,Gresik,Jawa Timur,East Java,2023-06-27,Bronze
+C00618,Customer 0618,Male,22,Malang,Jawa Timur,East Java,2025-06-05,Bronze
+C00619,Customer 0619,Female,38,Malang,Jawa Timur,East Java,2022-11-03,Silver
+C00620,Customer 0620,Female,24,Gresik,Jawa Timur,East Java,2022-10-02,Bronze
+C00621,Customer 0621,Male,33,Medan,Sumatera Utara,Sumatra,2023-02-02,Bronze
+C00622,Customer 0622,Female,20,Jakarta,DKI Jakarta,Jabodetabek,2023-04-20,Gold
+C00623,Customer 0623,Female,30,Jakarta,DKI Jakarta,Jabodetabek,2023-08-15,Bronze
+C00624,Customer 0624,Female,27,Bandung,Jawa Barat,West Java,2023-11-15,Silver
+C00625,Customer 0625,Female,62,Medan,Sumatera Utara,Sumatra,2022-08-08,Gold
+C00626,Customer 0626,Male,23,Surabaya,Jawa Timur,East Java,2024-12-20,Bronze
+C00627,Customer 0627,Female,47,Surabaya,Jawa Timur,East Java,2024-01-03,Silver
+C00628,Customer 0628,Female,58,Surabaya,Jawa Timur,East Java,2023-02-25,Bronze
+C00629,Customer 0629,Male,57,Denpasar,Bali,Bali & Nusa Tenggara,2022-11-02,Gold
+C00630,Customer 0630,Female,65,Bandung,Jawa Barat,West Java,2022-12-19,Gold
+C00631,Customer 0631,Female,37,Surabaya,Jawa Timur,East Java,2023-03-09,Silver
+C00632,Customer 0632,Male,63,Sidoarjo,Jawa Timur,East Java,2024-01-14,Silver
+C00633,Customer 0633,Female,56,Bandung,Jawa Barat,West Java,2025-07-03,Silver
+C00634,Customer 0634,Female,64,Gresik,Jawa Timur,East Java,2025-02-16,Gold
+C00635,Customer 0635,Female,41,Jakarta,DKI Jakarta,Jabodetabek,2024-03-29,Gold
+C00636,Customer 0636,Male,36,Banjarmasin,Kalimantan Selatan,Kalimantan,2025-08-21,Silver
+C00637,Customer 0637,Female,46,Jakarta,DKI Jakarta,Jabodetabek,2025-02-08,Bronze
+C00638,Customer 0638,Male,33,Surabaya,Jawa Timur,East Java,2024-08-24,Silver
+C00639,Customer 0639,Male,22,Gresik,Jawa Timur,East Java,2025-09-21,Gold
+C00640,Customer 0640,Female,46,Medan,Sumatera Utara,Sumatra,2022-08-07,Silver
+C00641,Customer 0641,Male,37,Jakarta,DKI Jakarta,Jabodetabek,2024-09-08,Bronze
+C00642,Customer 0642,Female,48,Jakarta,DKI Jakarta,Jabodetabek,2025-02-15,Silver
+C00643,Customer 0643,Female,62,Palembang,Sumatera Selatan,Sumatra,2025-02-17,Bronze
+C00644,Customer 0644,Female,33,Jakarta,DKI Jakarta,Jabodetabek,2025-01-13,Silver
+C00645,Customer 0645,Male,45,Jakarta,DKI Jakarta,Jabodetabek,2025-09-06,Silver
+C00646,Customer 0646,Male,49,Jakarta,DKI Jakarta,Jabodetabek,2023-06-15,Silver
+C00647,Customer 0647,Male,33,Bandung,Jawa Barat,West Java,2023-09-17,Bronze
+C00648,Customer 0648,Female,36,Jakarta,DKI Jakarta,Jabodetabek,2022-09-23,Gold
+C00649,Customer 0649,Female,25,Surabaya,Jawa Timur,East Java,2023-07-02,Silver
+C00650,Customer 0650,Male,36,Yogyakarta,DI Yogyakarta,Central Java,2025-09-05,Bronze
+C00651,Customer 0651,Male,45,Malang,Jawa Timur,East Java,2025-01-22,Silver
+C00652,Customer 0652,Male,30,Denpasar,Bali,Bali & Nusa Tenggara,2024-03-30,Silver
+C00653,Customer 0653,Male,62,Makassar,Sulawesi Selatan,Sulawesi,2025-09-07,Gold
+C00654,Customer 0654,Female,50,Bandung,Jawa Barat,West Java,2022-11-03,Silver
+C00655,Customer 0655,Male,63,Surabaya,Jawa Timur,East Java,2024-08-26,Silver
+C00656,Customer 0656,Male,62,Jakarta,DKI Jakarta,Jabodetabek,2022-11-02,Silver
+C00657,Customer 0657,Female,18,Bandung,Jawa Barat,West Java,2025-09-17,Gold
+C00658,Customer 0658,Male,50,Surabaya,Jawa Timur,East Java,2025-07-27,Bronze
+C00659,Customer 0659,Female,19,Bandung,Jawa Barat,West Java,2022-10-08,Bronze
+C00660,Customer 0660,Female,58,Denpasar,Bali,Bali & Nusa Tenggara,2022-12-29,Silver
+C00661,Customer 0661,Female,40,Jakarta,DKI Jakarta,Jabodetabek,2023-03-01,Gold
+C00662,Customer 0662,Male,55,Surabaya,Jawa Timur,East Java,2024-05-12,Bronze
+C00663,Customer 0663,Female,60,Jakarta,DKI Jakarta,Jabodetabek,2025-05-22,Gold
+C00664,Customer 0664,Male,45,Jakarta,DKI Jakarta,Jabodetabek,2025-04-17,Gold
+C00665,Customer 0665,Female,25,Sidoarjo,Jawa Timur,East Java,2024-09-14,Silver
+C00666,Customer 0666,Male,41,Denpasar,Bali,Bali & Nusa Tenggara,2022-12-27,Gold
+C00667,Customer 0667,Male,64,Bandung,Jawa Barat,West Java,2023-04-15,Gold
+C00668,Customer 0668,Female,59,Banjarmasin,Kalimantan Selatan,Kalimantan,2025-02-05,Silver
+C00669,Customer 0669,Male,46,Gresik,Jawa Timur,East Java,2025-07-22,Silver
+C00670,Customer 0670,Female,35,Medan,Sumatera Utara,Sumatra,2024-05-26,Gold
+C00671,Customer 0671,Female,56,Surabaya,Jawa Timur,East Java,2023-10-11,Bronze
+C00672,Customer 0672,Male,45,Jakarta,DKI Jakarta,Jabodetabek,2023-04-20,Bronze
+C00673,Customer 0673,Female,47,Manado,Sulawesi Utara,Sulawesi,2024-11-22,Silver
+C00674,Customer 0674,Male,35,Jakarta,DKI Jakarta,Jabodetabek,2025-07-26,Bronze
+C00675,Customer 0675,Male,23,Jakarta,DKI Jakarta,Jabodetabek,2022-12-02,Gold
+C00676,Customer 0676,Female,58,Makassar,Sulawesi Selatan,Sulawesi,2023-03-23,Silver
+C00677,Customer 0677,Female,32,Sidoarjo,Jawa Timur,East Java,2024-10-25,Gold
+C00678,Customer 0678,Male,19,Medan,Sumatera Utara,Sumatra,2022-09-18,Bronze
+C00679,Customer 0679,Female,40,Bandung,Jawa Barat,West Java,2024-02-28,Silver
+C00680,Customer 0680,Male,25,Semarang,Jawa Tengah,Central Java,2024-05-26,Silver
+C00681,Customer 0681,Male,36,Semarang,Jawa Tengah,Central Java,2022-11-14,Bronze
+C00682,Customer 0682,Female,19,Semarang,Jawa Tengah,Central Java,2022-12-11,Bronze
+C00683,Customer 0683,Male,43,Jakarta,DKI Jakarta,Jabodetabek,2025-08-27,Bronze
+C00684,Customer 0684,Female,24,Malang,Jawa Timur,East Java,2023-12-19,Gold
+C00685,Customer 0685,Female,34,Gresik,Jawa Timur,East Java,2024-02-11,Bronze
+C00686,Customer 0686,Female,63,Surabaya,Jawa Timur,East Java,2024-03-06,Silver
+C00687,Customer 0687,Male,56,Jakarta,DKI Jakarta,Jabodetabek,2023-03-27,Silver
+C00688,Customer 0688,Male,21,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-04-21,Bronze
+C00689,Customer 0689,Male,59,Semarang,Jawa Tengah,Central Java,2025-10-01,Silver
+C00690,Customer 0690,Male,38,Semarang,Jawa Tengah,Central Java,2023-09-05,Gold
+C00691,Customer 0691,Female,19,Jakarta,DKI Jakarta,Jabodetabek,2023-09-11,Bronze
+C00692,Customer 0692,Female,65,Bandung,Jawa Barat,West Java,2023-09-17,Bronze
+C00693,Customer 0693,Female,19,Balikpapan,Kalimantan Timur,Kalimantan,2024-08-31,Gold
+C00694,Customer 0694,Female,32,Yogyakarta,DI Yogyakarta,Central Java,2024-04-15,Silver
+C00695,Customer 0695,Male,20,Palembang,Sumatera Selatan,Sumatra,2023-10-10,Gold
+C00696,Customer 0696,Male,58,Balikpapan,Kalimantan Timur,Kalimantan,2024-12-31,Silver
+C00697,Customer 0697,Male,20,Surabaya,Jawa Timur,East Java,2023-06-05,Silver
+C00698,Customer 0698,Male,25,Makassar,Sulawesi Selatan,Sulawesi,2025-07-29,Bronze
+C00699,Customer 0699,Female,61,Bandung,Jawa Barat,West Java,2022-09-22,Silver
+C00700,Customer 0700,Male,37,Bandung,Jawa Barat,West Java,2024-10-27,Bronze
+C00701,Customer 0701,Male,21,Jakarta,DKI Jakarta,Jabodetabek,2025-09-30,Gold
+C00702,Customer 0702,Male,32,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-06-12,Gold
+C00703,Customer 0703,Male,31,Gresik,Jawa Timur,East Java,2024-03-08,Bronze
+C00704,Customer 0704,Female,22,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-02-25,Silver
+C00705,Customer 0705,Female,51,Medan,Sumatera Utara,Sumatra,2022-11-30,Bronze
+C00706,Customer 0706,Female,64,Makassar,Sulawesi Selatan,Sulawesi,2022-11-30,Silver
+C00707,Customer 0707,Female,63,Makassar,Sulawesi Selatan,Sulawesi,2023-09-08,Bronze
+C00708,Customer 0708,Male,56,Surabaya,Jawa Timur,East Java,2025-07-12,Silver
+C00709,Customer 0709,Male,44,Bandung,Jawa Barat,West Java,2023-10-09,Bronze
+C00710,Customer 0710,Female,64,Palembang,Sumatera Selatan,Sumatra,2023-03-16,Silver
+C00711,Customer 0711,Male,41,Yogyakarta,DI Yogyakarta,Central Java,2025-01-03,Bronze
+C00712,Customer 0712,Female,36,Jakarta,DKI Jakarta,Jabodetabek,2025-05-01,Silver
+C00713,Customer 0713,Female,36,Jakarta,DKI Jakarta,Jabodetabek,2023-02-19,Gold
+C00714,Customer 0714,Male,21,Surabaya,Jawa Timur,East Java,2024-11-15,Bronze
+C00715,Customer 0715,Male,39,Denpasar,Bali,Bali & Nusa Tenggara,2024-11-16,Gold
+C00716,Customer 0716,Female,47,Balikpapan,Kalimantan Timur,Kalimantan,2025-03-29,Silver
+C00717,Customer 0717,Female,25,Surabaya,Jawa Timur,East Java,2023-07-14,Silver
+C00718,Customer 0718,Female,64,Malang,Jawa Timur,East Java,2023-06-05,Silver
+C00719,Customer 0719,Male,42,Malang,Jawa Timur,East Java,2023-10-04,Gold
+C00720,Customer 0720,Male,64,Balikpapan,Kalimantan Timur,Kalimantan,2025-05-11,Gold
+C00721,Customer 0721,Male,20,Malang,Jawa Timur,East Java,2024-05-06,Silver
+C00722,Customer 0722,Female,21,Gresik,Jawa Timur,East Java,2025-07-24,Silver
+C00723,Customer 0723,Female,45,Gresik,Jawa Timur,East Java,2022-12-26,Silver
+C00724,Customer 0724,Female,43,Palembang,Sumatera Selatan,Sumatra,2023-05-09,Gold
+C00725,Customer 0725,Male,27,Semarang,Jawa Tengah,Central Java,2025-02-10,Gold
+C00726,Customer 0726,Male,47,Makassar,Sulawesi Selatan,Sulawesi,2025-05-01,Bronze
+C00727,Customer 0727,Male,63,Medan,Sumatera Utara,Sumatra,2024-07-19,Bronze
+C00728,Customer 0728,Female,22,Jakarta,DKI Jakarta,Jabodetabek,2022-11-12,Silver
+C00729,Customer 0729,Male,39,Malang,Jawa Timur,East Java,2023-11-01,Gold
+C00730,Customer 0730,Female,36,Balikpapan,Kalimantan Timur,Kalimantan,2025-04-15,Silver
+C00731,Customer 0731,Male,43,Denpasar,Bali,Bali & Nusa Tenggara,2022-11-26,Gold
+C00732,Customer 0732,Male,33,Gresik,Jawa Timur,East Java,2024-07-09,Bronze
+C00733,Customer 0733,Male,50,Semarang,Jawa Tengah,Central Java,2023-01-26,Bronze
+C00734,Customer 0734,Female,28,Jakarta,DKI Jakarta,Jabodetabek,2025-02-24,Gold
+C00735,Customer 0735,Female,26,Yogyakarta,DI Yogyakarta,Central Java,2025-06-18,Gold
+C00736,Customer 0736,Female,27,Balikpapan,Kalimantan Timur,Kalimantan,2025-01-01,Silver
+C00737,Customer 0737,Male,41,Surabaya,Jawa Timur,East Java,2024-06-06,Gold
+C00738,Customer 0738,Female,42,Bandung,Jawa Barat,West Java,2022-08-07,Bronze
+C00739,Customer 0739,Female,65,Jakarta,DKI Jakarta,Jabodetabek,2023-05-29,Bronze
+C00740,Customer 0740,Male,40,Jakarta,DKI Jakarta,Jabodetabek,2024-03-07,Bronze
+C00741,Customer 0741,Female,21,Jakarta,DKI Jakarta,Jabodetabek,2025-09-10,Gold
+C00742,Customer 0742,Female,28,Bandung,Jawa Barat,West Java,2023-04-15,Gold
+C00743,Customer 0743,Female,20,Semarang,Jawa Tengah,Central Java,2024-07-03,Bronze
+C00744,Customer 0744,Male,40,Manado,Sulawesi Utara,Sulawesi,2022-07-21,Silver
+C00745,Customer 0745,Male,40,Medan,Sumatera Utara,Sumatra,2023-06-05,Gold
+C00746,Customer 0746,Male,57,Surabaya,Jawa Timur,East Java,2025-02-16,Gold
+C00747,Customer 0747,Male,55,Semarang,Jawa Tengah,Central Java,2024-12-14,Bronze
+C00748,Customer 0748,Male,48,Jakarta,DKI Jakarta,Jabodetabek,2023-12-30,Bronze
+C00749,Customer 0749,Male,48,Medan,Sumatera Utara,Sumatra,2025-01-10,Silver
+C00750,Customer 0750,Male,49,Jakarta,DKI Jakarta,Jabodetabek,2023-12-04,Silver
+C00751,Customer 0751,Female,64,Semarang,Jawa Tengah,Central Java,2025-07-20,Silver
+C00752,Customer 0752,Female,38,Jakarta,DKI Jakarta,Jabodetabek,2024-06-18,Silver
+C00753,Customer 0753,Male,42,Makassar,Sulawesi Selatan,Sulawesi,2023-09-17,Silver
+C00754,Customer 0754,Female,40,Denpasar,Bali,Bali & Nusa Tenggara,2024-02-08,Bronze
+C00755,Customer 0755,Male,53,Malang,Jawa Timur,East Java,2024-06-17,Silver
+C00756,Customer 0756,Female,27,Surabaya,Jawa Timur,East Java,2023-10-08,Gold
+C00757,Customer 0757,Female,53,Semarang,Jawa Tengah,Central Java,2022-11-14,Gold
+C00758,Customer 0758,Male,31,Medan,Sumatera Utara,Sumatra,2024-11-25,Silver
+C00759,Customer 0759,Female,63,Surabaya,Jawa Timur,East Java,2022-10-28,Silver
+C00760,Customer 0760,Female,27,Gresik,Jawa Timur,East Java,2023-06-05,Silver
+C00761,Customer 0761,Male,43,Sidoarjo,Jawa Timur,East Java,2023-07-29,Gold
+C00762,Customer 0762,Female,54,Medan,Sumatera Utara,Sumatra,2024-11-20,Bronze
+C00763,Customer 0763,Male,26,Yogyakarta,DI Yogyakarta,Central Java,2025-03-30,Bronze
+C00764,Customer 0764,Male,40,Jakarta,DKI Jakarta,Jabodetabek,2025-01-31,Gold
+C00765,Customer 0765,Female,31,Gresik,Jawa Timur,East Java,2023-10-10,Gold
+C00766,Customer 0766,Female,24,Sidoarjo,Jawa Timur,East Java,2023-10-02,Bronze
+C00767,Customer 0767,Female,51,Bandung,Jawa Barat,West Java,2025-03-22,Gold
+C00768,Customer 0768,Male,41,Surabaya,Jawa Timur,East Java,2023-11-20,Silver
+C00769,Customer 0769,Female,53,Denpasar,Bali,Bali & Nusa Tenggara,2024-05-28,Silver
+C00770,Customer 0770,Male,39,Makassar,Sulawesi Selatan,Sulawesi,2023-03-05,Silver
+C00771,Customer 0771,Male,29,Makassar,Sulawesi Selatan,Sulawesi,2023-05-29,Silver
+C00772,Customer 0772,Male,26,Jakarta,DKI Jakarta,Jabodetabek,2023-02-04,Gold
+C00773,Customer 0773,Female,36,Jakarta,DKI Jakarta,Jabodetabek,2023-08-17,Gold
+C00774,Customer 0774,Male,54,Malang,Jawa Timur,East Java,2025-06-26,Bronze
+C00775,Customer 0775,Male,31,Sidoarjo,Jawa Timur,East Java,2023-02-06,Bronze
+C00776,Customer 0776,Male,39,Surabaya,Jawa Timur,East Java,2022-07-18,Silver
+C00777,Customer 0777,Male,35,Sidoarjo,Jawa Timur,East Java,2025-04-28,Gold
+C00778,Customer 0778,Female,54,Malang,Jawa Timur,East Java,2024-04-08,Silver
+C00779,Customer 0779,Female,41,Balikpapan,Kalimantan Timur,Kalimantan,2023-09-11,Gold
+C00780,Customer 0780,Female,59,Semarang,Jawa Tengah,Central Java,2022-07-29,Silver
+C00781,Customer 0781,Male,47,Manado,Sulawesi Utara,Sulawesi,2024-01-17,Gold
+C00782,Customer 0782,Male,61,Medan,Sumatera Utara,Sumatra,2025-03-25,Bronze
+C00783,Customer 0783,Female,40,Makassar,Sulawesi Selatan,Sulawesi,2023-09-04,Silver
+C00784,Customer 0784,Male,18,Surabaya,Jawa Timur,East Java,2024-10-30,Gold
+C00785,Customer 0785,Male,41,Jakarta,DKI Jakarta,Jabodetabek,2024-01-14,Bronze
+C00786,Customer 0786,Female,45,Jakarta,DKI Jakarta,Jabodetabek,2023-12-24,Gold
+C00787,Customer 0787,Male,58,Bandung,Jawa Barat,West Java,2024-08-10,Gold
+C00788,Customer 0788,Male,28,Surabaya,Jawa Timur,East Java,2024-11-02,Bronze
+C00789,Customer 0789,Male,58,Makassar,Sulawesi Selatan,Sulawesi,2022-09-21,Silver
+C00790,Customer 0790,Female,59,Manado,Sulawesi Utara,Sulawesi,2024-09-09,Bronze
+C00791,Customer 0791,Male,33,Medan,Sumatera Utara,Sumatra,2023-01-09,Silver
+C00792,Customer 0792,Female,30,Jakarta,DKI Jakarta,Jabodetabek,2024-12-15,Bronze
+C00793,Customer 0793,Female,63,Bandung,Jawa Barat,West Java,2024-07-24,Bronze
+C00794,Customer 0794,Female,44,Jakarta,DKI Jakarta,Jabodetabek,2025-10-06,Silver
+C00795,Customer 0795,Female,26,Sidoarjo,Jawa Timur,East Java,2023-03-16,Gold
+C00796,Customer 0796,Female,20,Gresik,Jawa Timur,East Java,2024-12-13,Gold
+C00797,Customer 0797,Male,37,Balikpapan,Kalimantan Timur,Kalimantan,2025-01-04,Gold
+C00798,Customer 0798,Female,50,Makassar,Sulawesi Selatan,Sulawesi,2022-07-04,Gold
+C00799,Customer 0799,Male,26,Gresik,Jawa Timur,East Java,2024-12-04,Bronze
+C00800,Customer 0800,Female,30,Makassar,Sulawesi Selatan,Sulawesi,2025-09-17,Bronze
+C00801,Customer 0801,Female,24,Palembang,Sumatera Selatan,Sumatra,2025-01-09,Gold
+C00802,Customer 0802,Male,57,Semarang,Jawa Tengah,Central Java,2025-10-12,Bronze
+C00803,Customer 0803,Male,31,Malang,Jawa Timur,East Java,2025-08-26,Silver
+C00804,Customer 0804,Female,30,Banjarmasin,Kalimantan Selatan,Kalimantan,2024-05-04,Silver
+C00805,Customer 0805,Male,38,Jakarta,DKI Jakarta,Jabodetabek,2025-09-26,Gold
+C00806,Customer 0806,Male,55,Malang,Jawa Timur,East Java,2025-01-16,Bronze
+C00807,Customer 0807,Female,36,Denpasar,Bali,Bali & Nusa Tenggara,2024-05-25,Silver
+C00808,Customer 0808,Male,28,Makassar,Sulawesi Selatan,Sulawesi,2025-04-05,Bronze
+C00809,Customer 0809,Male,45,Surabaya,Jawa Timur,East Java,2024-05-17,Gold
+C00810,Customer 0810,Male,19,Manado,Sulawesi Utara,Sulawesi,2025-05-25,Silver
+C00811,Customer 0811,Male,42,Malang,Jawa Timur,East Java,2025-06-12,Silver
+C00812,Customer 0812,Male,22,Makassar,Sulawesi Selatan,Sulawesi,2025-01-07,Bronze
+C00813,Customer 0813,Female,53,Jakarta,DKI Jakarta,Jabodetabek,2023-08-11,Gold
+C00814,Customer 0814,Female,27,Jakarta,DKI Jakarta,Jabodetabek,2023-04-10,Silver
+C00815,Customer 0815,Female,37,Gresik,Jawa Timur,East Java,2024-05-08,Gold
+C00816,Customer 0816,Male,59,Jakarta,DKI Jakarta,Jabodetabek,2024-12-06,Silver
+C00817,Customer 0817,Female,51,Semarang,Jawa Tengah,Central Java,2024-12-03,Gold
+C00818,Customer 0818,Female,37,Manado,Sulawesi Utara,Sulawesi,2023-01-14,Silver
+C00819,Customer 0819,Female,62,Jakarta,DKI Jakarta,Jabodetabek,2023-04-18,Bronze
+C00820,Customer 0820,Male,53,Malang,Jawa Timur,East Java,2025-10-04,Silver
+C00821,Customer 0821,Female,22,Denpasar,Bali,Bali & Nusa Tenggara,2025-09-06,Silver
+C00822,Customer 0822,Female,27,Jakarta,DKI Jakarta,Jabodetabek,2022-12-05,Bronze
+C00823,Customer 0823,Male,40,Gresik,Jawa Timur,East Java,2023-10-28,Silver
+C00824,Customer 0824,Female,56,Sidoarjo,Jawa Timur,East Java,2023-02-16,Silver
+C00825,Customer 0825,Female,56,Palembang,Sumatera Selatan,Sumatra,2024-04-07,Silver
+C00826,Customer 0826,Male,31,Malang,Jawa Timur,East Java,2024-06-21,Bronze
+C00827,Customer 0827,Male,24,Malang,Jawa Timur,East Java,2023-05-27,Bronze
+C00828,Customer 0828,Male,37,Balikpapan,Kalimantan Timur,Kalimantan,2024-03-08,Bronze
+C00829,Customer 0829,Female,58,Malang,Jawa Timur,East Java,2023-10-27,Silver
+C00830,Customer 0830,Female,19,Jakarta,DKI Jakarta,Jabodetabek,2023-05-03,Gold
+C00831,Customer 0831,Male,48,Gresik,Jawa Timur,East Java,2025-01-29,Bronze
+C00832,Customer 0832,Female,28,Denpasar,Bali,Bali & Nusa Tenggara,2023-01-09,Bronze
+C00833,Customer 0833,Male,58,Palembang,Sumatera Selatan,Sumatra,2024-07-07,Silver
+C00834,Customer 0834,Female,28,Medan,Sumatera Utara,Sumatra,2022-09-25,Gold
+C00835,Customer 0835,Male,59,Surabaya,Jawa Timur,East Java,2025-04-25,Silver
+C00836,Customer 0836,Female,47,Sidoarjo,Jawa Timur,East Java,2022-10-27,Bronze
+C00837,Customer 0837,Female,24,Denpasar,Bali,Bali & Nusa Tenggara,2024-06-23,Silver
+C00838,Customer 0838,Female,63,Denpasar,Bali,Bali & Nusa Tenggara,2023-01-07,Bronze
+C00839,Customer 0839,Male,39,Yogyakarta,DI Yogyakarta,Central Java,2025-09-13,Bronze
+C00840,Customer 0840,Male,43,Medan,Sumatera Utara,Sumatra,2023-02-10,Bronze
+C00841,Customer 0841,Male,57,Denpasar,Bali,Bali & Nusa Tenggara,2022-08-25,Bronze
+C00842,Customer 0842,Female,31,Denpasar,Bali,Bali & Nusa Tenggara,2024-07-15,Bronze
+C00843,Customer 0843,Male,29,Surabaya,Jawa Timur,East Java,2025-09-27,Gold
+C00844,Customer 0844,Male,42,Jakarta,DKI Jakarta,Jabodetabek,2024-09-14,Bronze
+C00845,Customer 0845,Female,36,Bandung,Jawa Barat,West Java,2025-04-25,Silver
+C00846,Customer 0846,Female,61,Makassar,Sulawesi Selatan,Sulawesi,2025-08-27,Gold
+C00847,Customer 0847,Female,53,Malang,Jawa Timur,East Java,2025-01-15,Gold
+C00848,Customer 0848,Female,43,Semarang,Jawa Tengah,Central Java,2023-04-30,Silver
+C00849,Customer 0849,Male,56,Gresik,Jawa Timur,East Java,2023-08-09,Bronze
+C00850,Customer 0850,Male,52,Banjarmasin,Kalimantan Selatan,Kalimantan,2022-07-10,Bronze
+C00851,Customer 0851,Male,65,Palembang,Sumatera Selatan,Sumatra,2023-01-05,Bronze
+C00852,Customer 0852,Female,48,Jakarta,DKI Jakarta,Jabodetabek,2023-08-31,Gold
+C00853,Customer 0853,Male,65,Jakarta,DKI Jakarta,Jabodetabek,2022-09-24,Bronze
+C00854,Customer 0854,Female,37,Surabaya,Jawa Timur,East Java,2024-06-16,Silver
+C00855,Customer 0855,Male,31,Medan,Sumatera Utara,Sumatra,2022-10-25,Bronze
+C00856,Customer 0856,Male,36,Makassar,Sulawesi Selatan,Sulawesi,2024-06-20,Silver
+C00857,Customer 0857,Male,60,Manado,Sulawesi Utara,Sulawesi,2024-01-28,Gold
+C00858,Customer 0858,Female,54,Sidoarjo,Jawa Timur,East Java,2023-04-26,Silver
+C00859,Customer 0859,Female,47,Jakarta,DKI Jakarta,Jabodetabek,2023-04-09,Silver
+C00860,Customer 0860,Female,57,Semarang,Jawa Tengah,Central Java,2025-07-26,Gold
+C00861,Customer 0861,Female,28,Surabaya,Jawa Timur,East Java,2023-12-29,Gold
+C00862,Customer 0862,Male,45,Yogyakarta,DI Yogyakarta,Central Java,2023-07-20,Bronze
+C00863,Customer 0863,Female,20,Jakarta,DKI Jakarta,Jabodetabek,2024-01-21,Silver
+C00864,Customer 0864,Male,59,Jakarta,DKI Jakarta,Jabodetabek,2025-03-08,Gold
+C00865,Customer 0865,Female,37,Surabaya,Jawa Timur,East Java,2025-04-05,Gold
+C00866,Customer 0866,Male,20,Balikpapan,Kalimantan Timur,Kalimantan,2025-05-06,Gold
+C00867,Customer 0867,Male,30,Denpasar,Bali,Bali & Nusa Tenggara,2024-04-07,Gold
+C00868,Customer 0868,Female,53,Medan,Sumatera Utara,Sumatra,2023-03-25,Bronze
+C00869,Customer 0869,Female,28,Medan,Sumatera Utara,Sumatra,2023-06-23,Gold
+C00870,Customer 0870,Male,55,Bandung,Jawa Barat,West Java,2023-11-04,Bronze
+C00871,Customer 0871,Male,29,Malang,Jawa Timur,East Java,2025-02-09,Bronze
+C00872,Customer 0872,Female,64,Surabaya,Jawa Timur,East Java,2023-08-13,Bronze
+C00873,Customer 0873,Female,48,Yogyakarta,DI Yogyakarta,Central Java,2022-11-07,Silver
+C00874,Customer 0874,Male,43,Denpasar,Bali,Bali & Nusa Tenggara,2025-07-18,Gold
+C00875,Customer 0875,Male,39,Jakarta,DKI Jakarta,Jabodetabek,2022-11-25,Gold
+C00876,Customer 0876,Male,27,Semarang,Jawa Tengah,Central Java,2023-07-08,Silver
+C00877,Customer 0877,Female,56,Medan,Sumatera Utara,Sumatra,2025-03-31,Gold
+C00878,Customer 0878,Female,45,Jakarta,DKI Jakarta,Jabodetabek,2025-09-08,Silver
+C00879,Customer 0879,Male,64,Surabaya,Jawa Timur,East Java,2023-05-12,Bronze
+C00880,Customer 0880,Male,62,Palembang,Sumatera Selatan,Sumatra,2024-09-21,Silver
+C00881,Customer 0881,Female,26,Jakarta,DKI Jakarta,Jabodetabek,2025-03-20,Silver
+C00882,Customer 0882,Male,22,Malang,Jawa Timur,East Java,2022-12-07,Silver
+C00883,Customer 0883,Male,21,Surabaya,Jawa Timur,East Java,2023-09-30,Silver
+C00884,Customer 0884,Male,21,Manado,Sulawesi Utara,Sulawesi,2022-10-14,Bronze
+C00885,Customer 0885,Male,57,Surabaya,Jawa Timur,East Java,2024-03-25,Gold
+C00886,Customer 0886,Male,55,Bandung,Jawa Barat,West Java,2022-10-11,Silver
+C00887,Customer 0887,Male,60,Semarang,Jawa Tengah,Central Java,2023-11-04,Bronze
+C00888,Customer 0888,Male,43,Semarang,Jawa Tengah,Central Java,2023-12-10,Bronze
+C00889,Customer 0889,Male,39,Yogyakarta,DI Yogyakarta,Central Java,2023-11-10,Gold
+C00890,Customer 0890,Female,40,Jakarta,DKI Jakarta,Jabodetabek,2023-01-18,Gold
+C00891,Customer 0891,Male,56,Gresik,Jawa Timur,East Java,2023-11-17,Silver
+C00892,Customer 0892,Female,25,Malang,Jawa Timur,East Java,2023-11-19,Bronze
+C00893,Customer 0893,Male,58,Malang,Jawa Timur,East Java,2025-02-14,Gold
+C00894,Customer 0894,Male,50,Jakarta,DKI Jakarta,Jabodetabek,2025-08-17,Silver
+C00895,Customer 0895,Male,21,Medan,Sumatera Utara,Sumatra,2025-05-23,Gold
+C00896,Customer 0896,Male,32,Denpasar,Bali,Bali & Nusa Tenggara,2023-03-05,Bronze
+C00897,Customer 0897,Male,51,Malang,Jawa Timur,East Java,2023-12-25,Silver
+C00898,Customer 0898,Male,32,Palembang,Sumatera Selatan,Sumatra,2022-11-11,Bronze
+C00899,Customer 0899,Male,31,Bandung,Jawa Barat,West Java,2023-04-25,Gold
+C00900,Customer 0900,Male,47,Bandung,Jawa Barat,West Java,2023-06-07,Silver
+C00901,Customer 0901,Female,47,Bandung,Jawa Barat,West Java,2023-01-03,Bronze
+C00902,Customer 0902,Male,51,Surabaya,Jawa Timur,East Java,2023-07-28,Silver
+C00903,Customer 0903,Female,50,Semarang,Jawa Tengah,Central Java,2024-05-02,Bronze
+C00904,Customer 0904,Female,39,Surabaya,Jawa Timur,East Java,2024-12-18,Gold
+C00905,Customer 0905,Male,22,Jakarta,DKI Jakarta,Jabodetabek,2023-12-05,Bronze
+C00906,Customer 0906,Female,39,Malang,Jawa Timur,East Java,2023-08-01,Bronze
+C00907,Customer 0907,Female,29,Denpasar,Bali,Bali & Nusa Tenggara,2025-01-11,Gold
+C00908,Customer 0908,Male,44,Makassar,Sulawesi Selatan,Sulawesi,2024-01-08,Silver
+C00909,Customer 0909,Male,40,Denpasar,Bali,Bali & Nusa Tenggara,2025-08-27,Gold
+C00910,Customer 0910,Female,47,Jakarta,DKI Jakarta,Jabodetabek,2022-10-08,Gold
+C00911,Customer 0911,Female,41,Balikpapan,Kalimantan Timur,Kalimantan,2025-07-20,Gold
+C00912,Customer 0912,Male,46,Bandung,Jawa Barat,West Java,2024-08-09,Silver
+C00913,Customer 0913,Male,21,Denpasar,Bali,Bali & Nusa Tenggara,2022-11-22,Silver
+C00914,Customer 0914,Female,41,Bandung,Jawa Barat,West Java,2024-09-10,Gold
+C00915,Customer 0915,Female,41,Palembang,Sumatera Selatan,Sumatra,2023-08-06,Gold
+C00916,Customer 0916,Male,64,Jakarta,DKI Jakarta,Jabodetabek,2025-09-04,Silver
+C00917,Customer 0917,Male,26,Jakarta,DKI Jakarta,Jabodetabek,2024-06-06,Gold
+C00918,Customer 0918,Male,22,Malang,Jawa Timur,East Java,2022-12-20,Bronze
+C00919,Customer 0919,Female,38,Surabaya,Jawa Timur,East Java,2024-08-14,Bronze
+C00920,Customer 0920,Female,53,Denpasar,Bali,Bali & Nusa Tenggara,2024-04-07,Silver
+C00921,Customer 0921,Male,45,Surabaya,Jawa Timur,East Java,2023-03-16,Gold
+C00922,Customer 0922,Female,63,Gresik,Jawa Timur,East Java,2022-11-04,Silver
+C00923,Customer 0923,Male,48,Gresik,Jawa Timur,East Java,2023-10-26,Gold
+C00924,Customer 0924,Male,48,Sidoarjo,Jawa Timur,East Java,2023-10-18,Bronze
+C00925,Customer 0925,Male,54,Jakarta,DKI Jakarta,Jabodetabek,2023-06-13,Gold
+C00926,Customer 0926,Male,61,Malang,Jawa Timur,East Java,2023-04-26,Bronze
+C00927,Customer 0927,Female,54,Jakarta,DKI Jakarta,Jabodetabek,2023-01-04,Bronze
+C00928,Customer 0928,Female,65,Medan,Sumatera Utara,Sumatra,2023-09-05,Silver
+C00929,Customer 0929,Female,31,Malang,Jawa Timur,East Java,2024-11-17,Gold
+C00930,Customer 0930,Male,30,Malang,Jawa Timur,East Java,2024-09-26,Bronze
+C00931,Customer 0931,Male,65,Bandung,Jawa Barat,West Java,2024-12-17,Gold
+C00932,Customer 0932,Male,43,Manado,Sulawesi Utara,Sulawesi,2022-11-09,Gold
+C00933,Customer 0933,Female,59,Semarang,Jawa Tengah,Central Java,2024-11-13,Gold
+C00934,Customer 0934,Male,27,Balikpapan,Kalimantan Timur,Kalimantan,2023-07-22,Silver
+C00935,Customer 0935,Female,57,Bandung,Jawa Barat,West Java,2024-09-09,Gold
+C00936,Customer 0936,Female,39,Sidoarjo,Jawa Timur,East Java,2025-07-31,Silver
+C00937,Customer 0937,Female,65,Manado,Sulawesi Utara,Sulawesi,2023-12-21,Bronze
+C00938,Customer 0938,Female,56,Palembang,Sumatera Selatan,Sumatra,2024-05-29,Bronze
+C00939,Customer 0939,Female,33,Sidoarjo,Jawa Timur,East Java,2022-08-15,Silver
+C00940,Customer 0940,Female,44,Bandung,Jawa Barat,West Java,2022-10-05,Silver
+C00941,Customer 0941,Male,48,Jakarta,DKI Jakarta,Jabodetabek,2024-05-21,Silver
+C00942,Customer 0942,Female,53,Jakarta,DKI Jakarta,Jabodetabek,2024-09-22,Gold
+C00943,Customer 0943,Female,33,Jakarta,DKI Jakarta,Jabodetabek,2023-11-21,Bronze
+C00944,Customer 0944,Male,27,Surabaya,Jawa Timur,East Java,2023-11-29,Silver
+C00945,Customer 0945,Male,39,Medan,Sumatera Utara,Sumatra,2025-09-25,Gold
+C00946,Customer 0946,Male,54,Malang,Jawa Timur,East Java,2022-11-03,Silver
+C00947,Customer 0947,Female,19,Bandung,Jawa Barat,West Java,2023-01-29,Bronze
+C00948,Customer 0948,Male,26,Sidoarjo,Jawa Timur,East Java,2022-11-12,Gold
+C00949,Customer 0949,Female,31,Semarang,Jawa Tengah,Central Java,2025-06-05,Silver
+C00950,Customer 0950,Male,20,Surabaya,Jawa Timur,East Java,2022-07-13,Gold
+C00951,Customer 0951,Male,19,Bandung,Jawa Barat,West Java,2025-02-21,Bronze
+C00952,Customer 0952,Female,25,Medan,Sumatera Utara,Sumatra,2022-11-01,Bronze
+C00953,Customer 0953,Male,39,Bandung,Jawa Barat,West Java,2023-04-01,Gold
+C00954,Customer 0954,Female,21,Jakarta,DKI Jakarta,Jabodetabek,2023-10-03,Bronze
+C00955,Customer 0955,Female,60,Makassar,Sulawesi Selatan,Sulawesi,2024-07-22,Silver
+C00956,Customer 0956,Female,26,Surabaya,Jawa Timur,East Java,2024-04-18,Bronze
+C00957,Customer 0957,Male,44,Palembang,Sumatera Selatan,Sumatra,2023-08-09,Gold
+C00958,Customer 0958,Female,27,Gresik,Jawa Timur,East Java,2025-06-11,Silver
+C00959,Customer 0959,Male,52,Semarang,Jawa Tengah,Central Java,2022-12-17,Bronze
+C00960,Customer 0960,Male,63,Bandung,Jawa Barat,West Java,2025-08-25,Bronze
+C00961,Customer 0961,Male,32,Jakarta,DKI Jakarta,Jabodetabek,2024-05-02,Bronze
+C00962,Customer 0962,Male,35,Jakarta,DKI Jakarta,Jabodetabek,2025-01-11,Gold
+C00963,Customer 0963,Female,20,Malang,Jawa Timur,East Java,2024-11-27,Gold
+C00964,Customer 0964,Female,52,Jakarta,DKI Jakarta,Jabodetabek,2024-01-30,Gold
+C00965,Customer 0965,Female,39,Surabaya,Jawa Timur,East Java,2023-07-26,Bronze
+C00966,Customer 0966,Male,47,Semarang,Jawa Tengah,Central Java,2023-04-24,Gold
+C00967,Customer 0967,Female,56,Denpasar,Bali,Bali & Nusa Tenggara,2024-03-18,Bronze
+C00968,Customer 0968,Female,22,Yogyakarta,DI Yogyakarta,Central Java,2022-08-25,Bronze
+C00969,Customer 0969,Male,46,Jakarta,DKI Jakarta,Jabodetabek,2024-07-15,Gold
+C00970,Customer 0970,Female,20,Malang,Jawa Timur,East Java,2023-01-30,Gold
+C00971,Customer 0971,Male,39,Malang,Jawa Timur,East Java,2024-05-21,Gold
+C00972,Customer 0972,Female,26,Jakarta,DKI Jakarta,Jabodetabek,2022-10-08,Silver
+C00973,Customer 0973,Male,62,Makassar,Sulawesi Selatan,Sulawesi,2024-05-11,Gold
+C00974,Customer 0974,Male,62,Malang,Jawa Timur,East Java,2024-06-30,Silver
+C00975,Customer 0975,Female,62,Surabaya,Jawa Timur,East Java,2023-06-30,Gold
+C00976,Customer 0976,Male,18,Balikpapan,Kalimantan Timur,Kalimantan,2024-03-03,Silver
+C00977,Customer 0977,Male,64,Denpasar,Bali,Bali & Nusa Tenggara,2024-11-05,Bronze
+C00978,Customer 0978,Female,64,Palembang,Sumatera Selatan,Sumatra,2023-04-06,Bronze
+C00979,Customer 0979,Male,21,Bandung,Jawa Barat,West Java,2025-02-02,Silver
+C00980,Customer 0980,Male,47,Medan,Sumatera Utara,Sumatra,2022-09-11,Silver
+C00981,Customer 0981,Female,38,Bandung,Jawa Barat,West Java,2024-01-29,Silver
+C00982,Customer 0982,Female,25,Bandung,Jawa Barat,West Java,2024-02-23,Silver
+C00983,Customer 0983,Male,21,Denpasar,Bali,Bali & Nusa Tenggara,2024-10-28,Gold
+C00984,Customer 0984,Male,58,Yogyakarta,DI Yogyakarta,Central Java,2023-02-06,Silver
+C00985,Customer 0985,Female,42,Jakarta,DKI Jakarta,Jabodetabek,2024-11-14,Silver
+C00986,Customer 0986,Female,64,Sidoarjo,Jawa Timur,East Java,2025-07-18,Silver
+C00987,Customer 0987,Female,35,Denpasar,Bali,Bali & Nusa Tenggara,2022-07-29,Silver
+C00988,Customer 0988,Female,28,Gresik,Jawa Timur,East Java,2023-09-26,Silver
+C00989,Customer 0989,Male,63,Jakarta,DKI Jakarta,Jabodetabek,2024-06-11,Bronze
+C00990,Customer 0990,Female,28,Denpasar,Bali,Bali & Nusa Tenggara,2022-10-26,Bronze
+C00991,Customer 0991,Female,36,Medan,Sumatera Utara,Sumatra,2024-08-27,Silver
+C00992,Customer 0992,Male,29,Medan,Sumatera Utara,Sumatra,2025-01-28,Gold
+C00993,Customer 0993,Male,62,Semarang,Jawa Tengah,Central Java,2024-01-24,Bronze
+C00994,Customer 0994,Female,51,Malang,Jawa Timur,East Java,2022-10-23,Silver
+C00995,Customer 0995,Male,25,Manado,Sulawesi Utara,Sulawesi,2024-04-11,Bronze
+C00996,Customer 0996,Female,50,Surabaya,Jawa Timur,East Java,2024-09-13,Silver
+C00997,Customer 0997,Male,21,Jakarta,DKI Jakarta,Jabodetabek,2023-07-08,Silver
+C00998,Customer 0998,Male,54,Jakarta,DKI Jakarta,Jabodetabek,2024-12-22,Silver
+C00999,Customer 0999,Female,34,Sidoarjo,Jawa Timur,East Java,2024-03-05,Bronze
+C01000,Customer 1000,Male,42,Medan,Sumatera Utara,Sumatra,2024-11-24,Gold
+C01001,Customer 1001,Male,39,Makassar,Sulawesi Selatan,Sulawesi,2022-08-12,Bronze
+C01002,Customer 1002,Female,49,Balikpapan,Kalimantan Timur,Kalimantan,2023-04-28,Gold
+C01003,Customer 1003,Male,60,Surabaya,Jawa Timur,East Java,2023-08-28,Bronze
+C01004,Customer 1004,Female,24,Jakarta,DKI Jakarta,Jabodetabek,2023-06-05,Silver
+C01005,Customer 1005,Male,51,Gresik,Jawa Timur,East Java,2023-02-10,Gold
+C01006,Customer 1006,Male,31,Surabaya,Jawa Timur,East Java,2024-04-11,Silver
+C01007,Customer 1007,Female,39,Surabaya,Jawa Timur,East Java,2023-03-09,Bronze
+C01008,Customer 1008,Male,43,Jakarta,DKI Jakarta,Jabodetabek,2024-04-11,Bronze
+C01009,Customer 1009,Male,19,Sidoarjo,Jawa Timur,East Java,2023-11-23,Gold
+C01010,Customer 1010,Male,35,Bandung,Jawa Barat,West Java,2023-07-03,Silver
+C01011,Customer 1011,Male,23,Semarang,Jawa Tengah,Central Java,2024-12-28,Bronze
+C01012,Customer 1012,Male,29,Surabaya,Jawa Timur,East Java,2023-12-25,Bronze
+C01013,Customer 1013,Female,36,Jakarta,DKI Jakarta,Jabodetabek,2023-07-24,Silver
+C01014,Customer 1014,Male,36,Makassar,Sulawesi Selatan,Sulawesi,2022-07-08,Bronze
+C01015,Customer 1015,Male,46,Bandung,Jawa Barat,West Java,2023-03-04,Gold
+C01016,Customer 1016,Male,42,Surabaya,Jawa Timur,East Java,2024-07-28,Gold
+C01017,Customer 1017,Male,38,Jakarta,DKI Jakarta,Jabodetabek,2025-04-21,Gold
+C01018,Customer 1018,Female,55,Surabaya,Jawa Timur,East Java,2022-10-25,Bronze
+C01019,Customer 1019,Female,19,Balikpapan,Kalimantan Timur,Kalimantan,2023-07-25,Silver
+C01020,Customer 1020,Male,54,Bandung,Jawa Barat,West Java,2023-04-23,Silver
+C01021,Customer 1021,Male,55,Sidoarjo,Jawa Timur,East Java,2025-01-09,Bronze
+C01022,Customer 1022,Female,62,Semarang,Jawa Tengah,Central Java,2023-05-20,Gold
+C01023,Customer 1023,Male,20,Manado,Sulawesi Utara,Sulawesi,2024-12-01,Gold
+C01024,Customer 1024,Female,44,Jakarta,DKI Jakarta,Jabodetabek,2025-08-25,Bronze
+C01025,Customer 1025,Female,34,Gresik,Jawa Timur,East Java,2025-02-07,Bronze
+C01026,Customer 1026,Male,18,Manado,Sulawesi Utara,Sulawesi,2023-02-14,Silver
+C01027,Customer 1027,Male,58,Jakarta,DKI Jakarta,Jabodetabek,2022-11-01,Bronze
+C01028,Customer 1028,Female,41,Sidoarjo,Jawa Timur,East Java,2022-07-04,Silver
+C01029,Customer 1029,Male,40,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-06-15,Bronze
+C01030,Customer 1030,Male,20,Surabaya,Jawa Timur,East Java,2023-03-06,Gold
+C01031,Customer 1031,Male,30,Balikpapan,Kalimantan Timur,Kalimantan,2025-09-25,Gold
+C01032,Customer 1032,Male,22,Jakarta,DKI Jakarta,Jabodetabek,2022-08-25,Gold
+C01033,Customer 1033,Male,62,Jakarta,DKI Jakarta,Jabodetabek,2022-07-11,Gold
+C01034,Customer 1034,Male,64,Jakarta,DKI Jakarta,Jabodetabek,2025-09-27,Silver
+C01035,Customer 1035,Female,42,Malang,Jawa Timur,East Java,2025-05-23,Silver
+C01036,Customer 1036,Male,39,Medan,Sumatera Utara,Sumatra,2023-01-12,Gold
+C01037,Customer 1037,Female,59,Sidoarjo,Jawa Timur,East Java,2023-11-09,Silver
+C01038,Customer 1038,Male,43,Jakarta,DKI Jakarta,Jabodetabek,2023-07-31,Gold
+C01039,Customer 1039,Female,26,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-03-30,Gold
+C01040,Customer 1040,Male,19,Sidoarjo,Jawa Timur,East Java,2023-02-25,Silver
+C01041,Customer 1041,Female,27,Jakarta,DKI Jakarta,Jabodetabek,2024-05-06,Gold
+C01042,Customer 1042,Female,26,Semarang,Jawa Tengah,Central Java,2024-01-06,Gold
+C01043,Customer 1043,Male,30,Semarang,Jawa Tengah,Central Java,2023-09-21,Bronze
+C01044,Customer 1044,Male,34,Jakarta,DKI Jakarta,Jabodetabek,2023-10-24,Bronze
+C01045,Customer 1045,Female,40,Yogyakarta,DI Yogyakarta,Central Java,2024-01-04,Bronze
+C01046,Customer 1046,Female,58,Jakarta,DKI Jakarta,Jabodetabek,2022-10-30,Bronze
+C01047,Customer 1047,Female,28,Bandung,Jawa Barat,West Java,2023-05-15,Silver
+C01048,Customer 1048,Male,34,Palembang,Sumatera Selatan,Sumatra,2023-11-28,Silver
+C01049,Customer 1049,Female,41,Surabaya,Jawa Timur,East Java,2024-05-08,Silver
+C01050,Customer 1050,Female,29,Surabaya,Jawa Timur,East Java,2025-08-17,Silver
+C01051,Customer 1051,Male,24,Denpasar,Bali,Bali & Nusa Tenggara,2023-08-17,Gold
+C01052,Customer 1052,Female,62,Makassar,Sulawesi Selatan,Sulawesi,2025-06-22,Gold
+C01053,Customer 1053,Female,52,Bandung,Jawa Barat,West Java,2022-12-29,Gold
+C01054,Customer 1054,Female,65,Yogyakarta,DI Yogyakarta,Central Java,2024-09-30,Gold
+C01055,Customer 1055,Male,25,Jakarta,DKI Jakarta,Jabodetabek,2024-03-24,Gold
+C01056,Customer 1056,Male,43,Bandung,Jawa Barat,West Java,2025-03-17,Gold
+C01057,Customer 1057,Male,47,Gresik,Jawa Timur,East Java,2023-12-22,Silver
+C01058,Customer 1058,Female,62,Surabaya,Jawa Timur,East Java,2022-09-27,Silver
+C01059,Customer 1059,Male,19,Malang,Jawa Timur,East Java,2023-05-07,Gold
+C01060,Customer 1060,Male,29,Surabaya,Jawa Timur,East Java,2024-12-28,Gold
+C01061,Customer 1061,Male,19,Sidoarjo,Jawa Timur,East Java,2025-03-16,Gold
+C01062,Customer 1062,Male,27,Sidoarjo,Jawa Timur,East Java,2023-05-24,Bronze
+C01063,Customer 1063,Female,36,Jakarta,DKI Jakarta,Jabodetabek,2023-11-14,Silver
+C01064,Customer 1064,Male,33,Jakarta,DKI Jakarta,Jabodetabek,2023-08-15,Bronze
+C01065,Customer 1065,Male,19,Surabaya,Jawa Timur,East Java,2024-06-25,Silver
+C01066,Customer 1066,Female,54,Malang,Jawa Timur,East Java,2023-06-15,Gold
+C01067,Customer 1067,Male,62,Manado,Sulawesi Utara,Sulawesi,2023-08-26,Silver
+C01068,Customer 1068,Male,43,Jakarta,DKI Jakarta,Jabodetabek,2025-02-13,Silver
+C01069,Customer 1069,Male,55,Sidoarjo,Jawa Timur,East Java,2022-08-09,Silver
+C01070,Customer 1070,Female,58,Denpasar,Bali,Bali & Nusa Tenggara,2024-11-27,Gold
+C01071,Customer 1071,Male,38,Medan,Sumatera Utara,Sumatra,2023-01-20,Silver
+C01072,Customer 1072,Male,56,Denpasar,Bali,Bali & Nusa Tenggara,2024-11-04,Bronze
+C01073,Customer 1073,Male,62,Sidoarjo,Jawa Timur,East Java,2022-09-20,Bronze
+C01074,Customer 1074,Male,65,Surabaya,Jawa Timur,East Java,2025-07-17,Gold
+C01075,Customer 1075,Female,22,Denpasar,Bali,Bali & Nusa Tenggara,2022-08-13,Silver
+C01076,Customer 1076,Male,19,Semarang,Jawa Tengah,Central Java,2022-12-08,Gold
+C01077,Customer 1077,Male,56,Denpasar,Bali,Bali & Nusa Tenggara,2024-12-04,Gold
+C01078,Customer 1078,Male,59,Bandung,Jawa Barat,West Java,2024-03-15,Bronze
+C01079,Customer 1079,Female,31,Surabaya,Jawa Timur,East Java,2024-12-19,Gold
+C01080,Customer 1080,Male,20,Jakarta,DKI Jakarta,Jabodetabek,2025-04-18,Gold
+C01081,Customer 1081,Male,30,Jakarta,DKI Jakarta,Jabodetabek,2024-01-07,Bronze
+C01082,Customer 1082,Female,38,Jakarta,DKI Jakarta,Jabodetabek,2025-04-16,Gold
+C01083,Customer 1083,Female,30,Medan,Sumatera Utara,Sumatra,2023-02-08,Bronze
+C01084,Customer 1084,Female,38,Medan,Sumatera Utara,Sumatra,2025-07-05,Gold
+C01085,Customer 1085,Female,42,Sidoarjo,Jawa Timur,East Java,2024-12-05,Gold
+C01086,Customer 1086,Female,30,Jakarta,DKI Jakarta,Jabodetabek,2024-01-13,Bronze
+C01087,Customer 1087,Female,25,Jakarta,DKI Jakarta,Jabodetabek,2022-08-29,Silver
+C01088,Customer 1088,Male,45,Jakarta,DKI Jakarta,Jabodetabek,2024-06-30,Gold
+C01089,Customer 1089,Male,57,Jakarta,DKI Jakarta,Jabodetabek,2024-01-31,Bronze
+C01090,Customer 1090,Female,64,Malang,Jawa Timur,East Java,2024-09-11,Bronze
+C01091,Customer 1091,Female,64,Makassar,Sulawesi Selatan,Sulawesi,2024-02-17,Silver
+C01092,Customer 1092,Male,24,Makassar,Sulawesi Selatan,Sulawesi,2023-01-16,Silver
+C01093,Customer 1093,Female,26,Bandung,Jawa Barat,West Java,2024-05-01,Silver
+C01094,Customer 1094,Male,46,Makassar,Sulawesi Selatan,Sulawesi,2023-06-29,Silver
+C01095,Customer 1095,Female,62,Malang,Jawa Timur,East Java,2023-01-16,Bronze
+C01096,Customer 1096,Female,45,Surabaya,Jawa Timur,East Java,2023-08-28,Gold
+C01097,Customer 1097,Female,20,Yogyakarta,DI Yogyakarta,Central Java,2023-05-09,Bronze
+C01098,Customer 1098,Male,57,Bandung,Jawa Barat,West Java,2023-02-02,Bronze
+C01099,Customer 1099,Female,42,Surabaya,Jawa Timur,East Java,2024-03-02,Silver
+C01100,Customer 1100,Male,49,Malang,Jawa Timur,East Java,2022-09-22,Bronze
+C01101,Customer 1101,Male,62,Surabaya,Jawa Timur,East Java,2023-10-23,Bronze
+C01102,Customer 1102,Female,26,Medan,Sumatera Utara,Sumatra,2023-05-07,Silver
+C01103,Customer 1103,Female,46,Sidoarjo,Jawa Timur,East Java,2022-11-22,Silver
+C01104,Customer 1104,Male,39,Yogyakarta,DI Yogyakarta,Central Java,2024-02-10,Silver
+C01105,Customer 1105,Male,22,Gresik,Jawa Timur,East Java,2024-11-02,Bronze
+C01106,Customer 1106,Male,39,Manado,Sulawesi Utara,Sulawesi,2025-01-02,Silver
+C01107,Customer 1107,Female,41,Medan,Sumatera Utara,Sumatra,2023-05-05,Bronze
+C01108,Customer 1108,Male,22,Palembang,Sumatera Selatan,Sumatra,2025-07-10,Bronze
+C01109,Customer 1109,Male,62,Surabaya,Jawa Timur,East Java,2024-06-01,Gold
+C01110,Customer 1110,Male,33,Balikpapan,Kalimantan Timur,Kalimantan,2023-08-18,Gold
+C01111,Customer 1111,Female,39,Jakarta,DKI Jakarta,Jabodetabek,2024-09-27,Bronze
+C01112,Customer 1112,Male,27,Jakarta,DKI Jakarta,Jabodetabek,2023-07-05,Silver
+C01113,Customer 1113,Female,30,Palembang,Sumatera Selatan,Sumatra,2025-04-26,Bronze
+C01114,Customer 1114,Male,21,Yogyakarta,DI Yogyakarta,Central Java,2024-07-04,Silver
+C01115,Customer 1115,Male,49,Surabaya,Jawa Timur,East Java,2022-11-17,Bronze
+C01116,Customer 1116,Male,49,Jakarta,DKI Jakarta,Jabodetabek,2024-06-06,Gold
+C01117,Customer 1117,Female,63,Surabaya,Jawa Timur,East Java,2025-02-13,Bronze
+C01118,Customer 1118,Female,60,Denpasar,Bali,Bali & Nusa Tenggara,2023-10-26,Silver
+C01119,Customer 1119,Male,33,Surabaya,Jawa Timur,East Java,2025-04-16,Bronze
+C01120,Customer 1120,Female,43,Jakarta,DKI Jakarta,Jabodetabek,2025-05-09,Silver
+C01121,Customer 1121,Male,20,Sidoarjo,Jawa Timur,East Java,2025-03-29,Bronze
+C01122,Customer 1122,Male,30,Jakarta,DKI Jakarta,Jabodetabek,2024-04-13,Silver
+C01123,Customer 1123,Male,27,Jakarta,DKI Jakarta,Jabodetabek,2023-02-11,Silver
+C01124,Customer 1124,Female,48,Malang,Jawa Timur,East Java,2023-07-04,Silver
+C01125,Customer 1125,Male,34,Jakarta,DKI Jakarta,Jabodetabek,2023-04-20,Gold
+C01126,Customer 1126,Female,55,Bandung,Jawa Barat,West Java,2025-10-10,Bronze
+C01127,Customer 1127,Female,46,Jakarta,DKI Jakarta,Jabodetabek,2023-06-13,Silver
+C01128,Customer 1128,Male,43,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-06-25,Bronze
+C01129,Customer 1129,Male,56,Palembang,Sumatera Selatan,Sumatra,2025-06-29,Gold
+C01130,Customer 1130,Male,38,Surabaya,Jawa Timur,East Java,2024-10-31,Gold
+C01131,Customer 1131,Female,65,Yogyakarta,DI Yogyakarta,Central Java,2024-04-07,Gold
+C01132,Customer 1132,Male,22,Jakarta,DKI Jakarta,Jabodetabek,2022-07-23,Silver
+C01133,Customer 1133,Female,24,Bandung,Jawa Barat,West Java,2022-08-06,Bronze
+C01134,Customer 1134,Female,42,Denpasar,Bali,Bali & Nusa Tenggara,2022-08-05,Silver
+C01135,Customer 1135,Female,59,Yogyakarta,DI Yogyakarta,Central Java,2025-03-27,Silver
+C01136,Customer 1136,Male,47,Semarang,Jawa Tengah,Central Java,2025-07-16,Silver
+C01137,Customer 1137,Male,58,Denpasar,Bali,Bali & Nusa Tenggara,2024-06-09,Gold
+C01138,Customer 1138,Female,19,Medan,Sumatera Utara,Sumatra,2022-08-23,Bronze
+C01139,Customer 1139,Female,28,Bandung,Jawa Barat,West Java,2024-10-28,Gold
+C01140,Customer 1140,Male,49,Medan,Sumatera Utara,Sumatra,2024-12-17,Gold
+C01141,Customer 1141,Male,27,Jakarta,DKI Jakarta,Jabodetabek,2022-07-25,Bronze
+C01142,Customer 1142,Female,51,Jakarta,DKI Jakarta,Jabodetabek,2024-10-23,Bronze
+C01143,Customer 1143,Female,22,Malang,Jawa Timur,East Java,2024-10-08,Gold
+C01144,Customer 1144,Female,54,Medan,Sumatera Utara,Sumatra,2024-10-31,Bronze
+C01145,Customer 1145,Male,32,Malang,Jawa Timur,East Java,2023-05-27,Gold
+C01146,Customer 1146,Male,51,Banjarmasin,Kalimantan Selatan,Kalimantan,2023-01-14,Bronze
+C01147,Customer 1147,Female,32,Bandung,Jawa Barat,West Java,2023-03-15,Gold
+C01148,Customer 1148,Male,19,Sidoarjo,Jawa Timur,East Java,2024-10-10,Bronze
+C01149,Customer 1149,Male,20,Yogyakarta,DI Yogyakarta,Central Java,2024-07-10,Bronze
+C01150,Customer 1150,Male,53,Surabaya,Jawa Timur,East Java,2025-08-20,Bronze
+C01151,Customer 1151,Male,54,Balikpapan,Kalimantan Timur,Kalimantan,2023-07-11,Silver
+C01152,Customer 1152,Female,41,Jakarta,DKI Jakarta,Jabodetabek,2023-04-15,Gold
+C01153,Customer 1153,Male,33,Jakarta,DKI Jakarta,Jabodetabek,2022-10-19,Gold
+C01154,Customer 1154,Male,38,Bandung,Jawa Barat,West Java,2024-05-03,Gold
+C01155,Customer 1155,Female,61,Bandung,Jawa Barat,West Java,2024-07-29,Silver
+C01156,Customer 1156,Male,21,Manado,Sulawesi Utara,Sulawesi,2025-03-18,Bronze
+C01157,Customer 1157,Female,26,Jakarta,DKI Jakarta,Jabodetabek,2022-07-04,Gold
+C01158,Customer 1158,Female,31,Jakarta,DKI Jakarta,Jabodetabek,2022-12-25,Bronze
+C01159,Customer 1159,Male,54,Gresik,Jawa Timur,East Java,2022-10-30,Silver
+C01160,Customer 1160,Female,62,Jakarta,DKI Jakarta,Jabodetabek,2024-07-08,Gold
+C01161,Customer 1161,Female,21,Surabaya,Jawa Timur,East Java,2025-08-17,Bronze
+C01162,Customer 1162,Male,21,Jakarta,DKI Jakarta,Jabodetabek,2024-12-12,Bronze
+C01163,Customer 1163,Male,65,Malang,Jawa Timur,East Java,2023-10-20,Silver
+C01164,Customer 1164,Female,27,Malang,Jawa Timur,East Java,2022-11-24,Bronze
+C01165,Customer 1165,Male,41,Bandung,Jawa Barat,West Java,2023-11-17,Silver
+C01166,Customer 1166,Male,36,Bandung,Jawa Barat,West Java,2023-01-03,Silver
+C01167,Customer 1167,Male,24,Makassar,Sulawesi Selatan,Sulawesi,2023-07-04,Silver
+C01168,Customer 1168,Female,51,Jakarta,DKI Jakarta,Jabodetabek,2022-10-24,Gold
+C01169,Customer 1169,Female,35,Medan,Sumatera Utara,Sumatra,2025-03-25,Gold
+C01170,Customer 1170,Male,21,Bandung,Jawa Barat,West Java,2024-08-23,Bronze
+C01171,Customer 1171,Female,21,Gresik,Jawa Timur,East Java,2024-10-14,Gold
+C01172,Customer 1172,Male,31,Yogyakarta,DI Yogyakarta,Central Java,2025-08-12,Gold
+C01173,Customer 1173,Female,21,Yogyakarta,DI Yogyakarta,Central Java,2022-07-02,Gold
+C01174,Customer 1174,Female,58,Medan,Sumatera Utara,Sumatra,2024-10-27,Bronze
+C01175,Customer 1175,Female,19,Surabaya,Jawa Timur,East Java,2023-06-26,Silver
+C01176,Customer 1176,Male,58,Surabaya,Jawa Timur,East Java,2024-04-13,Gold
+C01177,Customer 1177,Male,44,Malang,Jawa Timur,East Java,2024-01-16,Gold
+C01178,Customer 1178,Male,56,Jakarta,DKI Jakarta,Jabodetabek,2023-06-08,Bronze
+C01179,Customer 1179,Female,42,Jakarta,DKI Jakarta,Jabodetabek,2022-08-03,Silver
+C01180,Customer 1180,Male,25,Manado,Sulawesi Utara,Sulawesi,2023-10-25,Bronze
+C01181,Customer 1181,Male,20,Makassar,Sulawesi Selatan,Sulawesi,2025-08-08,Bronze
+C01182,Customer 1182,Female,60,Jakarta,DKI Jakarta,Jabodetabek,2022-10-26,Bronze
+C01183,Customer 1183,Male,50,Semarang,Jawa Tengah,Central Java,2025-07-07,Gold
+C01184,Customer 1184,Female,38,Malang,Jawa Timur,East Java,2025-03-19,Bronze
+C01185,Customer 1185,Female,43,Jakarta,DKI Jakarta,Jabodetabek,2023-08-24,Bronze
+C01186,Customer 1186,Female,33,Jakarta,DKI Jakarta,Jabodetabek,2023-11-26,Gold
+C01187,Customer 1187,Female,30,Sidoarjo,Jawa Timur,East Java,2025-01-04,Silver
+C01188,Customer 1188,Female,25,Jakarta,DKI Jakarta,Jabodetabek,2022-08-18,Bronze
+C01189,Customer 1189,Female,46,Medan,Sumatera Utara,Sumatra,2023-03-12,Silver
+C01190,Customer 1190,Male,51,Surabaya,Jawa Timur,East Java,2023-12-25,Bronze
+C01191,Customer 1191,Female,29,Medan,Sumatera Utara,Sumatra,2022-10-26,Bronze
+C01192,Customer 1192,Female,18,Gresik,Jawa Timur,East Java,2024-05-15,Gold
+C01193,Customer 1193,Male,54,Surabaya,Jawa Timur,East Java,2023-06-20,Bronze
+C01194,Customer 1194,Male,20,Manado,Sulawesi Utara,Sulawesi,2023-05-20,Gold
+C01195,Customer 1195,Male,21,Denpasar,Bali,Bali & Nusa Tenggara,2022-11-05,Bronze
+C01196,Customer 1196,Male,54,Bandung,Jawa Barat,West Java,2023-08-16,Bronze
+C01197,Customer 1197,Female,18,Jakarta,DKI Jakarta,Jabodetabek,2024-05-04,Silver
+C01198,Customer 1198,Male,65,Bandung,Jawa Barat,West Java,2023-02-22,Silver
+C01199,Customer 1199,Female,27,Malang,Jawa Timur,East Java,2023-10-19,Gold
+C01200,Customer 1200,Female,44,Surabaya,Jawa Timur,East Java,2023-10-13,Gold
